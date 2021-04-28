@@ -1,0 +1,105 @@
+[ActionsWidget]
+ColumnState=AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAboAAAACAQAAAQAAAAAAAAAAAAAAAGT/////AAAAgQAAAAAAAAACAAAA+gAAAAEAAAAAAAAAwAAAAAEAAAAAAAAD6AAAAABk
+
+[ConfigDialog]
+HDMI-1 eDP-1 Height 768=510
+HDMI-1 eDP-1 Width 1360=595
+
+[General]
+Number of Actions=0
+
+[KPropertiesDialog]
+eDP-1 Height 768=458
+eDP-1 Width 1366=411
+
+[PlasmaRunnerManager]
+LaunchCounts=1 services_applications:_home_alessandra_Downloads_eclipse-jee-2020-06_eclipse_.desktop,1 services_applications:discord.desktop,1 services_applications:ardour.desktop,4 services_applications:teams.desktop,25 services_applications:steam.desktop,1 services_applications:firefox.desktop,2 services_applications:appimagelaunchersettings.desktop,1 services_applications:kcm_kwin_effects.desktop,2 services_applications:jdownloader.desktop,1 recentdocuments_file:///home/alessandra/Juegos/pc/clonehero-linux,1 services_applications:kcm_touchpad.desktop,1 services_applications:nvidia-settings.desktop,4 services_applications:qjackctl.desktop,6 services_applications:org.kde.skanlite.desktop,2 services_applications:pgAdmin4.desktop,1 services_applications:org.manjaro.pamac.manager.desktop,13 services_applications:Zoom.desktop,1 services_applications:kcm_fonts.desktop,1 services_applications:kcm_kdeconnect.desktop,1 services_applications:appimagekit_c165e168b1d94d94aef19791aa4274d9-Slippi_Online.desktop,1 services_applications:org.kde.gwenview.desktop,1 services_applications:org.kde.konsole.desktop,2 services_applications:org.hydrogenmusic.Hydrogen.desktop,2 services_applications:guake.desktop,15 services_applications:pavucontrol.desktop
+
+[PlasmaViews][Panel 1]
+alignment=2
+panelVisibility=0
+
+[PlasmaViews][Panel 1][Defaults]
+maxLength=1196
+minLength=1103
+thickness=45
+
+[PlasmaViews][Panel 1][Horizontal1024]
+thickness=45
+
+[PlasmaViews][Panel 1][Horizontal1152]
+thickness=45
+
+[PlasmaViews][Panel 1][Horizontal1200]
+thickness=45
+
+[PlasmaViews][Panel 1][Horizontal1280]
+thickness=45
+
+[PlasmaViews][Panel 1][Horizontal1360]
+thickness=45
+
+[PlasmaViews][Panel 1][Horizontal1366]
+maxLength=1196
+minLength=1103
+thickness=45
+
+[PlasmaViews][Panel 1][Horizontal1440]
+thickness=45
+
+[PlasmaViews][Panel 1][Horizontal1600]
+thickness=45
+
+[PlasmaViews][Panel 1][Horizontal1680]
+thickness=45
+
+[PlasmaViews][Panel 1][Horizontal1900]
+thickness=45
+
+[PlasmaViews][Panel 1][Horizontal1916]
+thickness=45
+
+[PlasmaViews][Panel 1][Horizontal1920]
+thickness=45
+
+[PlasmaViews][Panel 1][Horizontal2048]
+thickness=45
+
+[PlasmaViews][Panel 1][Horizontal800]
+thickness=45
+
+[PlasmaViews][Panel 1][Horizontal864]
+thickness=45
+
+[PlasmaViews][Panel 1][Vertical768]
+maxLength=768
+minLength=768
+thickness=60
+
+[PlasmaViews][Panel 28][Defaults]
+maxLength=1172
+minLength=1111
+thickness=36
+
+[PlasmaViews][Panel 28][Horizontal1366]
+maxLength=1172
+minLength=1111
+thickness=36
+
+[PlasmaViews][Panel 35][Defaults]
+thickness=46
+
+[PlasmaViews][Panel 35][Horizontal1360]
+thickness=46
+
+[PlasmaViews][Panel 35][Horizontal1366]
+thickness=46
+
+[ScreenConnectors]
+0=eDP-1
+1=eDP1
+2=:0.0
+3=HDMI-1
+
+[Updates]
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/obsolete_kickoffrc.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/unlock_widgets.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/move_desktop_layout_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/maintain_existing_desktop_icon_sizes.js

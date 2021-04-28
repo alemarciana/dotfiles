@@ -1,0 +1,21 @@
+[$Version]
+update_info=spectacle_newConfig.upd:spectacle-new-config
+
+[FileDialogSize]
+HDMI-1 eDP-1 Height 768=600
+HDMI-1 eDP-1 Width 1360=884
+
+[GuiConfig]
+captureMode=5
+cropRegion=2334,382,120,110
+onClickChecked=true
+window-position=1480,80
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/Pictures/celula5.png,file:$HOME/Pictures/Screenshot_20201204_014831.png
+Recent URLs[$e]=file:$HOME/Pictures/,file:$HOME/
+detailViewIconSize=16
+
+[Save]
+lastSaveAsLocation=file:///home/alessandra/Pictures/Screenshot_20201204_014831.png
+lastSaveLocation=file:///home/alessandra/Pictures/Screenshot_20201204_020944.png

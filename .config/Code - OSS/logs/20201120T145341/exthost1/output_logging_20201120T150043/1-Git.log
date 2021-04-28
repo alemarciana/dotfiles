@@ -1,0 +1,1923 @@
+Looking for git in: git
+Using git 2.29.2 from git
+> git rev-parse --git-dir
+Open repository: /home/alessandra/git-sources/beca-everis
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/dto/persona.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/dto/persona.ts
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/app.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/app.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/app.module.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/app.module.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/app.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/app.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/app.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/app.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/app.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/app.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/app.module.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/app.module.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/app.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/app.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/app.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/app.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/app.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/app.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/app.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/app.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/dto/persona.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/dto/persona.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/app.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/app.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/app.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/app.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/dto/persona.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/dto/persona.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/app.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/app.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/app.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/app.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/app.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/app.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/app.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/app.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/app.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/app.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/app.module.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/app.module.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/app.component.scss
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/app.component.scss
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/app.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/app.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/app.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/app.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/app.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/app.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/app.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/app.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/app.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/app.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/app.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/app.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/app.module.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/app.module.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/app.component.scss
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/app.component.scss
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/dto/persona.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/dto/persona.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/app.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/app.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/app.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/app.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/app.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/app.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/app.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/app.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/app.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/app.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/app.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/app.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/app.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/app.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/app.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/app.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/app.component.scss
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/app.component.scss
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/app.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/app.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/app.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/app.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git config --get commit.template
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/app.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/app.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/app.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/app.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/app.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/app.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/app-routing.module.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/app-routing.module.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/app.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/app.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.html
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/app-routing.module.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/app-routing.module.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/app-routing.module.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/app-routing.module.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/app.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/app.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/app.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/app.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/app-routing.module.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/app-routing.module.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/app.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/app.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/dto/persona.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/dto/persona.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/app-routing.module.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/app-routing.module.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/app.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/app.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/app-routing.module.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/app-routing.module.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/app.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/app.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/app.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/app.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/app-routing.module.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/app-routing.module.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/app.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/app.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/app-routing.module.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/app-routing.module.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/app.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/app.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/app-routing.module.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/app-routing.module.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/app.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/app.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/app-routing.module.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/app-routing.module.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/app.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/app.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/app.module.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/app.module.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/app-routing.module.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/app-routing.module.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/app-routing.module.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/app-routing.module.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git check-ignore -v -z --stdin
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/editar/editar.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/editar/editar.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/editar/editar.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/editar/editar.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/app.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/app.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/app-routing.module.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/app-routing.module.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/editar/editar.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/editar/editar.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/app.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/app.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/app-routing.module.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/app-routing.module.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/editar/editar.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/editar/editar.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/app.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/app.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/app-routing.module.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/app-routing.module.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/app.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/app.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/app-routing.module.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/app-routing.module.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/app.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/app.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/app.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/app.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/app.module.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/app.module.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/editar/editar.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/editar/editar.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/editar/editar.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/editar/editar.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/app-routing.module.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/app-routing.module.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/app.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/app.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/app.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/app.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/app-routing.module.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/app-routing.module.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/editar/editar.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/editar/editar.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/editar/editar.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/editar/editar.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/editar/editar.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/editar/editar.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/editar/editar.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/editar/editar.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/editar/editar.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/editar/editar.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/editar/editar.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/editar/editar.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/editar/editar.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/editar/editar.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/app.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/app.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/app.module.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/app.module.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/editar/editar.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/editar/editar.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/editar/editar.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/editar/editar.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/detalles/detalles.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/editar/editar.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/editar/editar.component.html
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/services/persona.service.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/app.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/app.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/lista-personas/lista-personas.component.ts
+> git show --textconv :prueba_gonzalo/pruebaSemana3/src/app/app.module.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/prueba_gonzalo/pruebaSemana3/src/app/app.module.ts

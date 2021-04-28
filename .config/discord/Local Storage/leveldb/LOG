@@ -1,0 +1,21 @@
+2021/04/21-01:08:28.994 62f3 Reusing MANIFEST /home/alessandra/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2021/04/21-01:08:29.050 62f3 Recovering log #442
+2021/04/21-01:08:29.078 62f3 Reusing old log /home/alessandra/.config/discord/Local Storage/leveldb/000442.log 
+2021/04/21-01:12:00.733 658c Level-0 table #446: started
+2021/04/21-01:12:00.938 658c Level-0 table #446: 15809 bytes OK
+2021/04/21-01:12:01.028 658c Delete type=0 #442
+2021/04/21-01:12:01.028 658c Compacting 4@0 + 1@1 files
+2021/04/21-01:12:01.159 658c Generated table #447@0: 81 keys, 27945 bytes
+2021/04/21-01:12:01.159 658c Compacted 4@0 + 1@1 files => 27945 bytes
+2021/04/21-01:12:01.243 658c compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/04/21-01:12:01.244 658c Delete type=2 #439
+2021/04/21-01:12:01.244 658c Delete type=2 #443
+2021/04/21-01:12:01.244 658c Delete type=2 #446
+2021/04/21-01:12:01.244 658c Delete type=2 #441
+2021/04/21-01:12:01.244 658c Delete type=2 #437
+2021/04/21-01:27:54.198 658c Level-0 table #449: started
+2021/04/21-01:27:54.397 658c Level-0 table #449: 20212 bytes OK
+2021/04/21-01:27:54.479 658c Delete type=0 #445
+2021/04/21-01:43:54.196 658c Level-0 table #451: started
+2021/04/21-01:43:54.402 658c Level-0 table #451: 19086 bytes OK
+2021/04/21-01:43:54.488 658c Delete type=0 #448

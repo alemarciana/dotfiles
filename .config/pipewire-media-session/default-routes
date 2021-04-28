@@ -1,0 +1,4 @@
+alsa_card.pci-0000:00:1f.3:input:analog-input-internal-mic mute:0 volumes:2,1.000183,1.000183
+alsa_card.pci-0000:00:1f.3:output:analog-output-speaker mute:0 volumes:2,1.000000,1.000000
+alsa_card.usb-Focusrite_Scarlett_2i2_USB_Y8AWP0C063A242-00:input:analog-input mute:0 volumes:2,1.000000,1.000000
+alsa_card.usb-Focusrite_Scarlett_2i2_USB_Y8AWP0C063A242-00:output:analog-output mute:0 volumes:2,1.000000,1.000000

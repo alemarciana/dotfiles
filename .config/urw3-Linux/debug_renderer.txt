@@ -1,0 +1,76 @@
+==========================================
+RenderDriverInfo #0
+NAME: opengl
+ACCELERATED OK
+TARGETTEXTURE OK
+SOFTWARE: NO
+ pixelformat: SDL_PIXELFORMAT_ARGB8888
+ pixelformat: SDL_PIXELFORMAT_ABGR8888
+ pixelformat: SDL_PIXELFORMAT_RGB888
+ pixelformat: SDL_PIXELFORMAT_BGR888
+ pixelformat: SDL_PIXELFORMAT_UNKNOWN
+ pixelformat: SDL_PIXELFORMAT_UNKNOWN
+ pixelformat: SDL_PIXELFORMAT_UNKNOWN
+ pixelformat: SDL_PIXELFORMAT_UNKNOWN
+ pixelformat: SDL_PIXELFORMAT_UNKNOWN
+ pixelformat: SDL_PIXELFORMAT_UNKNOWN
+ pixelformat: SDL_PIXELFORMAT_UNKNOWN
+ pixelformat: SDL_PIXELFORMAT_UNKNOWN
+ pixelformat: SDL_PIXELFORMAT_UNKNOWN
+ pixelformat: SDL_PIXELFORMAT_UNKNOWN
+ pixelformat: SDL_PIXELFORMAT_UNKNOWN
+ pixelformat: SDL_PIXELFORMAT_UNKNOWN
+==========================================
+RenderDriverInfo #1
+NAME: opengles2
+ACCELERATED OK
+TARGETTEXTURE OK
+SOFTWARE: NO
+ pixelformat: SDL_PIXELFORMAT_ARGB8888
+ pixelformat: SDL_PIXELFORMAT_ABGR8888
+ pixelformat: SDL_PIXELFORMAT_RGB888
+ pixelformat: SDL_PIXELFORMAT_BGR888
+ pixelformat: SDL_PIXELFORMAT_UNKNOWN
+ pixelformat: SDL_PIXELFORMAT_UNKNOWN
+ pixelformat: SDL_PIXELFORMAT_UNKNOWN
+ pixelformat: SDL_PIXELFORMAT_UNKNOWN
+ pixelformat: SDL_PIXELFORMAT_UNKNOWN
+ pixelformat: SDL_PIXELFORMAT_UNKNOWN
+ pixelformat: SDL_PIXELFORMAT_UNKNOWN
+ pixelformat: SDL_PIXELFORMAT_UNKNOWN
+ pixelformat: SDL_PIXELFORMAT_UNKNOWN
+ pixelformat: SDL_PIXELFORMAT_UNKNOWN
+ pixelformat: SDL_PIXELFORMAT_UNKNOWN
+ pixelformat: SDL_PIXELFORMAT_UNKNOWN
+==========================================
+RenderDriverInfo #2
+NAME: software
+ACCELERATED !NO!
+TARGETTEXTURE OK
+SOFTWARE: YES
+ pixelformat: SDL_PIXELFORMAT_ARGB8888
+ pixelformat: SDL_PIXELFORMAT_ABGR8888
+ pixelformat: SDL_PIXELFORMAT_RGBA8888
+ pixelformat: SDL_PIXELFORMAT_BGRA8888
+ pixelformat: SDL_PIXELFORMAT_RGB888
+ pixelformat: SDL_PIXELFORMAT_BGR888
+ pixelformat: SDL_PIXELFORMAT_RGB565
+ pixelformat: SDL_PIXELFORMAT_RGB555
+ pixelformat: SDL_PIXELFORMAT_UNKNOWN
+ pixelformat: SDL_PIXELFORMAT_UNKNOWN
+ pixelformat: SDL_PIXELFORMAT_UNKNOWN
+ pixelformat: SDL_PIXELFORMAT_UNKNOWN
+ pixelformat: SDL_PIXELFORMAT_UNKNOWN
+ pixelformat: SDL_PIXELFORMAT_UNKNOWN
+ pixelformat: SDL_PIXELFORMAT_UNKNOWN
+ pixelformat: SDL_PIXELFORMAT_UNKNOWN
+---------------------------------------------------
+Used renderer: opengl
+renderer uses hardware acceleration
+render_scale_quality:2
+
+max_texture_width: 16384
+max_texture_height: 16384
+OK : targettexture rendering
+---------------------------------------------------
+

@@ -1,0 +1,12 @@
+[$Version]
+update_info=kwinrules.upd:replace-placement-string-to-enum
+
+[1]
+Description=Application settings for firefox
+strictgeometryrule=2
+wmclass=navigator firefox
+wmclasscomplete=true
+wmclassmatch=1
+
+[General]
+count=1

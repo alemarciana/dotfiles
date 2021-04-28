@@ -1,0 +1,24 @@
+2021/04/20-00:21:34.216 25f0 Reusing MANIFEST /home/alessandra/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2021/04/20-00:21:34.264 25f0 Recovering log #432
+2021/04/20-00:21:34.445 25f0 Reusing old log /home/alessandra/.config/discord/Local Storage/leveldb/000432.log 
+2021/04/20-00:22:38.006 2849 Level-0 table #436: started
+2021/04/20-00:22:38.208 2849 Level-0 table #436: 20956 bytes OK
+2021/04/20-00:22:38.287 2849 Delete type=0 #432
+2021/04/20-00:22:38.287 2849 Compacting 4@0 + 1@1 files
+2021/04/20-00:22:38.418 2849 Generated table #437@0: 81 keys, 27862 bytes
+2021/04/20-00:22:38.418 2849 Compacted 4@0 + 1@1 files => 27862 bytes
+2021/04/20-00:22:38.503 2849 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/04/20-00:22:38.504 2849 Delete type=2 #429
+2021/04/20-00:22:38.504 2849 Delete type=2 #436
+2021/04/20-00:22:38.504 2849 Delete type=2 #431
+2021/04/20-00:22:38.504 2849 Delete type=2 #427
+2021/04/20-00:22:38.504 2849 Delete type=2 #433
+2021/04/20-00:35:38.005 2849 Level-0 table #439: started
+2021/04/20-00:35:38.211 2849 Level-0 table #439: 19109 bytes OK
+2021/04/20-00:35:38.299 2849 Delete type=0 #435
+2021/04/20-00:50:46.566 2849 Level-0 table #441: started
+2021/04/20-00:50:46.788 2849 Level-0 table #441: 19788 bytes OK
+2021/04/20-00:50:46.881 2849 Delete type=0 #438
+2021/04/20-01:14:18.189 2849 Level-0 table #443: started
+2021/04/20-01:14:18.309 2849 Level-0 table #443: 14101 bytes OK
+2021/04/20-01:14:18.386 2849 Delete type=0 #440

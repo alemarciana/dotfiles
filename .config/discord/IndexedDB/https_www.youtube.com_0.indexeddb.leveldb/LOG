@@ -1,0 +1,5 @@
+2020/12/18-00:06:30.228 9c2d Reusing MANIFEST /home/alessandra/.config/discord/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/18-00:07:26.146 a538 Level-0 table #5: started
+2020/12/18-00:07:26.366 a538 Level-0 table #5: 1165 bytes OK
+2020/12/18-00:07:26.449 a538 Delete type=0 #3
+2020/12/18-00:07:26.449 a538 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

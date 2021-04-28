@@ -1,0 +1,34 @@
+[Image Saving]
+NumberStartsFrom=1
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/contrato1.png,file:$HOME/documentos-pega/firma_mac.png,file:$HOME/contrato8.png,file:$HOME/contrato7.png,file:$HOME/contrato6.png,file:$HOME/contrato5.png,file:$HOME/contrato4.png,file:$HOME/contrato3.png,file:$HOME/contrato2.png
+Recent URLs[$e]=file:$HOME/,file:$HOME/documentos-pega/
+detailViewIconSize=16
+
+[Options For Epson:PID 084F]
+KSane::InvertColors=false
+blue-gamma-table=0:0:100
+br-x=215.899994
+br-y=279.500000
+gamma-correction=User defined (Gamma=1.8)
+green-gamma-table=0:0:100
+mode=Color
+preview=false
+red-gamma-table=0:0:100
+resolution=600 DPI
+tl-x=0.000000
+tl-y=0.000000
+wait-for-button=false
+
+[Options For Noname:HD WebCam: HD WebCam]
+KSane::InvertColors=false
+brightness=128
+color=163
+contrast=0
+hue=128
+mode=Color
+white-level=0
+
+[Window]
+Geometry=740,400

@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/home/alessandra/.config/i3'
+let g:netrw_dirhist_7='/home/alessandra/git-sources/java-td/springProjects/ninja-gold-game/src/main/webapp'
+let g:netrw_dirhist_6='/home/alessandra/git-sources/java-td/springProjects/ninja-gold-game/src/main'
+let g:netrw_dirhist_5='/home/alessandra/git-sources/java-td/springProjects/ninja-gold-game/src'
+let g:netrw_dirhist_4='/home/alessandra/git-sources/java-td/springProjects/ninja-gold-game'
+let g:netrw_dirhist_3='/home/alessandra/git-sources/java-td/springProjects'
+let g:netrw_dirhist_2='/home/alessandra/git-sources/java-td/springProjects/ninja-gold-game/src/main/resources'
+let g:netrw_dirhist_1='/home/alessandra/git-sources/java-td/springProjects/ninja-gold-game/src/main'
+let g:netrw_dirhist_0='/home/alessandra/git-sources/java-td/springProjects/ninja-gold-game/src'
+let g:netrw_dirhist_9='/home/alessandra/git-sources/java-td/springProjects/ninja-gold-game'

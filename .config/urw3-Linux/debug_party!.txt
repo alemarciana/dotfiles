@@ -1,0 +1,242 @@
+{31:4} Day/H:M 1/8:4 creature_swap()
+{31:4} Day/H:M 1/8:4 curmap: BIGMAP isox,isoy: 1289,980 mintick: 4
+{31:4} Day/H:M 1/8:4 COMPANYZOOMCHECKED: 0
+{31:4} Day/H:M 1/8:4 parsing DATA
+{31:5} Day/H:M 1/8:4 creature_swap()
+{31:5} Day/H:M 1/8:4 curmap: BIGMAP isox,isoy: 1289,980 mintick: 4
+{31:5} Day/H:M 1/8:4 COMPANYZOOMCHECKED: 1
+{31:5} Day/H:M 1/8:4 parsing DATA
+{32:25} Day/H:M 1/8:10 creature_swap()
+{32:25} Day/H:M 1/8:10 curmap: ZOOMMAP isox,isoy: 1289,980 mintick: 10
+{32:25} Day/H:M 1/8:10 COMPANYZOOMCHECKED: 1
+{32:25} Day/H:M 1/8:10 parsing DATA
+{32:25} Day/H:M 1/8:10 #2176 cr DATA:1000 -> crpos:0 = Forester woodsman
+{32:25} Day/H:M 1/8:10 #2177 cr DATA:1001 -> crpos:1 = Forester hunter
+{32:25} Day/H:M 1/8:10 #2178 cr DATA:1002 -> crpos:2 = Forester Maiden
+{32:25} Day/H:M 1/8:10 #2179 cr DATA:1003 -> crpos:3 = Forester Woman
+{32:25} Day/H:M 1/8:10 #2180 cr DATA:1004 -> crpos:4 = Forester Maiden
+{32:25} Day/H:M 1/8:10 #2181 cr DATA:1005 -> crpos:5 = Forester kid
+{32:25} Day/H:M 1/8:10 #2184 cr DATA:1006 -> crpos:6 = Forester adventurer
+{32:25} Day/H:M 1/8:10 creature_swap()
+{32:25} Day/H:M 1/8:10 curmap: ZOOMMAP isox,isoy: 1289,980 mintick: 10
+{32:25} Day/H:M 1/8:10 COMPANYZOOMCHECKED: 1
+{32:25} Day/H:M 1/8:10 parsing DATA
+{32:25} Day/H:M 1/8:10 #2176 cr DATA:1000 -> crpos:0 = Forester woodsman
+{32:25} Day/H:M 1/8:10 #2177 cr DATA:1001 -> crpos:1 = Forester hunter
+{32:25} Day/H:M 1/8:10 #2178 cr DATA:1002 -> crpos:2 = Forester Maiden
+{32:25} Day/H:M 1/8:10 #2179 cr DATA:1003 -> crpos:3 = Forester Woman
+{32:25} Day/H:M 1/8:10 #2180 cr DATA:1004 -> crpos:4 = Forester Maiden
+{32:25} Day/H:M 1/8:10 #2181 cr DATA:1005 -> crpos:5 = Forester kid
+{32:25} Day/H:M 1/8:10 #2184 cr DATA:1006 -> crpos:6 = Forester adventurer
+{33:18} Day/H:M 1/8:47 creature_swap()
+{33:18} Day/H:M 1/8:47 curmap: BIGMAP isox,isoy: 1289,980 mintick: 47
+{33:18} Day/H:M 1/8:47 COMPANYZOOMCHECKED: 0
+{33:18} Day/H:M 1/8:47 parsing DATA
+{33:19} Day/H:M 1/8:47 creature_swap()
+{33:19} Day/H:M 1/8:47 curmap: BIGMAP isox,isoy: 1289,980 mintick: 47
+{33:19} Day/H:M 1/8:47 COMPANYZOOMCHECKED: 1
+{33:19} Day/H:M 1/8:47 parsing DATA
+{36:42} Day/H:M 1/9:56 creature_swap()
+{36:42} Day/H:M 1/9:56 curmap: ZOOMMAP isox,isoy: 1289,980 mintick: 116
+{36:42} Day/H:M 1/9:56 COMPANYZOOMCHECKED: 1
+{36:42} Day/H:M 1/9:56 parsing DATA
+{36:42} Day/H:M 1/9:56 #2029 cr DATA:1000 -> crpos:0 = Capercaillie
+{36:42} Day/H:M 1/9:56 #2229 cr DATA:1001 -> crpos:1 = Forester woodsman
+{36:42} Day/H:M 1/9:56 #2230 cr DATA:1002 -> crpos:2 = Forester hunter
+{36:42} Day/H:M 1/9:56 #2231 cr DATA:1003 -> crpos:3 = Forester Maiden
+{36:42} Day/H:M 1/9:56 #2232 cr DATA:1004 -> crpos:4 = Forester Woman
+{36:42} Day/H:M 1/9:56 #2233 cr DATA:1005 -> crpos:5 = Forester Maiden
+{36:42} Day/H:M 1/9:56 #2234 cr DATA:1006 -> crpos:6 = Forester kid
+{36:42} Day/H:M 1/9:56 #2237 cr DATA:1007 -> crpos:7 = Forester adventurer
+{36:42} Day/H:M 1/9:56 creature_swap()
+{36:42} Day/H:M 1/9:56 curmap: ZOOMMAP isox,isoy: 1289,980 mintick: 116
+{36:42} Day/H:M 1/9:56 COMPANYZOOMCHECKED: 1
+{36:42} Day/H:M 1/9:56 parsing DATA
+{36:42} Day/H:M 1/9:56 #2029 cr DATA:1000 -> crpos:0 = Capercaillie
+{36:42} Day/H:M 1/9:56 #2229 cr DATA:1001 -> crpos:1 = Forester woodsman
+{36:42} Day/H:M 1/9:56 #2230 cr DATA:1002 -> crpos:2 = Forester hunter
+{36:42} Day/H:M 1/9:56 #2231 cr DATA:1003 -> crpos:3 = Forester Maiden
+{36:42} Day/H:M 1/9:56 #2232 cr DATA:1004 -> crpos:4 = Forester Woman
+{36:42} Day/H:M 1/9:56 #2233 cr DATA:1005 -> crpos:5 = Forester Maiden
+{36:42} Day/H:M 1/9:56 #2234 cr DATA:1006 -> crpos:6 = Forester kid
+{36:42} Day/H:M 1/9:56 #2237 cr DATA:1007 -> crpos:7 = Forester adventurer
+{36:43} Day/H:M 1/9:58 creature_swap()
+{36:43} Day/H:M 1/9:58 curmap: BIGMAP isox,isoy: 1289,980 mintick: 118
+{36:43} Day/H:M 1/9:58 COMPANYZOOMCHECKED: 0
+{36:43} Day/H:M 1/9:58 parsing DATA
+{36:43} Day/H:M 1/9:58 creature_swap()
+{36:43} Day/H:M 1/9:58 curmap: BIGMAP isox,isoy: 1289,980 mintick: 118
+{36:43} Day/H:M 1/9:58 COMPANYZOOMCHECKED: 1
+{36:43} Day/H:M 1/9:58 parsing DATA
+{36:45} Day/H:M 1/9:58 creature_swap()
+{36:45} Day/H:M 1/9:58 curmap: ZOOMMAP isox,isoy: 1289,980 mintick: 118
+{36:45} Day/H:M 1/9:58 COMPANYZOOMCHECKED: 1
+{36:45} Day/H:M 1/9:58 parsing DATA
+{36:45} Day/H:M 1/9:58 #1163 cr DATA:1000 -> crpos:0 = Capercaillie
+{36:45} Day/H:M 1/9:58 #2279 cr DATA:1001 -> crpos:1 = Forester Woman
+{36:45} Day/H:M 1/9:58 #2282 cr DATA:1002 -> crpos:2 = Forester woodsman
+{36:45} Day/H:M 1/9:58 #2283 cr DATA:1003 -> crpos:3 = Forester hunter
+{36:45} Day/H:M 1/9:58 #2284 cr DATA:1004 -> crpos:4 = Forester Maiden
+{36:45} Day/H:M 1/9:58 #2285 cr DATA:1005 -> crpos:5 = Forester kid
+{36:45} Day/H:M 1/9:58 #2288 cr DATA:1006 -> crpos:6 = Forester adventurer
+{36:45} Day/H:M 1/9:58 #3142 cr DATA:1007 -> crpos:7 = Forester Maiden
+{36:45} Day/H:M 1/9:58 creature_swap()
+{36:45} Day/H:M 1/9:58 curmap: ZOOMMAP isox,isoy: 1289,980 mintick: 118
+{36:45} Day/H:M 1/9:58 COMPANYZOOMCHECKED: 1
+{36:45} Day/H:M 1/9:58 parsing DATA
+{36:45} Day/H:M 1/9:58 #1163 cr DATA:1000 -> crpos:0 = Capercaillie
+{36:45} Day/H:M 1/9:58 #2279 cr DATA:1001 -> crpos:1 = Forester Woman
+{36:45} Day/H:M 1/9:58 #2282 cr DATA:1002 -> crpos:2 = Forester woodsman
+{36:45} Day/H:M 1/9:58 #2283 cr DATA:1003 -> crpos:3 = Forester hunter
+{36:45} Day/H:M 1/9:58 #2284 cr DATA:1004 -> crpos:4 = Forester Maiden
+{36:45} Day/H:M 1/9:58 #2285 cr DATA:1005 -> crpos:5 = Forester kid
+{36:45} Day/H:M 1/9:58 #2288 cr DATA:1006 -> crpos:6 = Forester adventurer
+{36:45} Day/H:M 1/9:58 #3142 cr DATA:1007 -> crpos:7 = Forester Maiden
+{36:50} Day/H:M 1/10:10 creature_swap()
+{36:50} Day/H:M 1/10:10 curmap: BIGMAP isox,isoy: 1285,983 mintick: 130
+{36:50} Day/H:M 1/10:10 COMPANYZOOMCHECKED: 1
+{36:50} Day/H:M 1/10:10 parsing DATA
+{41:53} Day/H:M 1/10:44 creature_swap()
+{41:53} Day/H:M 1/10:44 curmap: ZOOMMAP isox,isoy: 1285,983 mintick: 164
+{41:53} Day/H:M 1/10:44 COMPANYZOOMCHECKED: 1
+{41:53} Day/H:M 1/10:44 parsing DATA
+{41:53} Day/H:M 1/10:44 #2100 cr DATA:1000 -> crpos:0 = Tufted duck
+{41:53} Day/H:M 1/10:44 #2101 cr DATA:1001 -> crpos:1 = Tufted duck
+{41:53} Day/H:M 1/10:44 #2102 cr DATA:1002 -> crpos:2 = Willow grouse
+{41:53} Day/H:M 1/10:44 #2103 cr DATA:1003 -> crpos:3 = Willow grouse
+{41:53} Day/H:M 1/10:44 #2104 cr DATA:1004 -> crpos:4 = Goldeneye
+{41:53} Day/H:M 1/10:44 #2105 cr DATA:1005 -> crpos:5 = Goldeneye
+{41:53} Day/H:M 1/10:44 #2106 cr DATA:1006 -> crpos:6 = Goldeneye
+{41:53} Day/H:M 1/10:44 #2107 cr DATA:1007 -> crpos:7 = Goldeneye
+{41:53} Day/H:M 1/10:44 #2108 cr DATA:1008 -> crpos:8 = Goldeneye
+{41:53} Day/H:M 1/10:44 #2109 cr DATA:1009 -> crpos:9 = elk
+{41:54} Day/H:M 1/10:44 creature_swap()
+{41:54} Day/H:M 1/10:44 curmap: ZOOMMAP isox,isoy: 1285,983 mintick: 164
+{41:54} Day/H:M 1/10:44 COMPANYZOOMCHECKED: 1
+{41:54} Day/H:M 1/10:44 parsing DATA
+{41:54} Day/H:M 1/10:44 #2100 cr DATA:1000 -> crpos:0 = Tufted duck
+{41:54} Day/H:M 1/10:44 #2101 cr DATA:1001 -> crpos:1 = Tufted duck
+{41:54} Day/H:M 1/10:44 #2102 cr DATA:1002 -> crpos:2 = Willow grouse
+{41:54} Day/H:M 1/10:44 #2103 cr DATA:1003 -> crpos:3 = Willow grouse
+{41:54} Day/H:M 1/10:44 #2104 cr DATA:1004 -> crpos:4 = Goldeneye
+{41:54} Day/H:M 1/10:44 #2105 cr DATA:1005 -> crpos:5 = Goldeneye
+{41:54} Day/H:M 1/10:44 #2106 cr DATA:1006 -> crpos:6 = Goldeneye
+{41:54} Day/H:M 1/10:44 #2107 cr DATA:1007 -> crpos:7 = Goldeneye
+{41:54} Day/H:M 1/10:44 #2108 cr DATA:1008 -> crpos:8 = Goldeneye
+{41:54} Day/H:M 1/10:44 #2109 cr DATA:1009 -> crpos:9 = elk
+{41:55} Day/H:M 1/10:44 creature_swap()
+{41:55} Day/H:M 1/10:44 curmap: BIGMAP isox,isoy: 1285,983 mintick: 164
+{41:55} Day/H:M 1/10:44 COMPANYZOOMCHECKED: 1
+{41:55} Day/H:M 1/10:44 parsing DATA
+{43:44} Day/H:M 1/10:45 creature_swap()
+{43:44} Day/H:M 1/10:45 curmap: ZOOMMAP isox,isoy: 1285,983 mintick: 165
+{43:44} Day/H:M 1/10:45 COMPANYZOOMCHECKED: 1
+{43:44} Day/H:M 1/10:45 parsing DATA
+{43:44} Day/H:M 1/10:45 #202 cr DATA:1000 -> crpos:0 = elk
+{43:44} Day/H:M 1/10:45 #736 cr DATA:1001 -> crpos:1 = Willow grouse
+{43:44} Day/H:M 1/10:45 #1373 cr DATA:1002 -> crpos:2 = Willow grouse
+{43:44} Day/H:M 1/10:45 #1827 cr DATA:1003 -> crpos:3 = Goldeneye
+{43:44} Day/H:M 1/10:45 #2181 cr DATA:1004 -> crpos:4 = Goldeneye
+{43:44} Day/H:M 1/10:45 #2253 cr DATA:1005 -> crpos:5 = Goldeneye
+{43:44} Day/H:M 1/10:45 #2254 cr DATA:1006 -> crpos:6 = Tufted duck
+{43:44} Day/H:M 1/10:45 #2255 cr DATA:1007 -> crpos:7 = Goldeneye
+{43:44} Day/H:M 1/10:45 #2256 cr DATA:1008 -> crpos:8 = Goldeneye
+{43:44} Day/H:M 1/10:45 #2264 cr DATA:1009 -> crpos:9 = Tufted duck
+{43:44} Day/H:M 1/10:45 creature_swap()
+{43:44} Day/H:M 1/10:45 curmap: ZOOMMAP isox,isoy: 1285,983 mintick: 165
+{43:44} Day/H:M 1/10:45 COMPANYZOOMCHECKED: 1
+{43:44} Day/H:M 1/10:45 parsing DATA
+{43:44} Day/H:M 1/10:45 #202 cr DATA:1000 -> crpos:0 = elk
+{43:44} Day/H:M 1/10:45 #736 cr DATA:1001 -> crpos:1 = Willow grouse
+{43:44} Day/H:M 1/10:45 #1373 cr DATA:1002 -> crpos:2 = Willow grouse
+{43:44} Day/H:M 1/10:45 #1827 cr DATA:1003 -> crpos:3 = Goldeneye
+{43:44} Day/H:M 1/10:45 #2181 cr DATA:1004 -> crpos:4 = Goldeneye
+{43:44} Day/H:M 1/10:45 #2253 cr DATA:1005 -> crpos:5 = Goldeneye
+{43:44} Day/H:M 1/10:45 #2254 cr DATA:1006 -> crpos:6 = Tufted duck
+{43:44} Day/H:M 1/10:45 #2255 cr DATA:1007 -> crpos:7 = Goldeneye
+{43:44} Day/H:M 1/10:45 #2256 cr DATA:1008 -> crpos:8 = Goldeneye
+{43:44} Day/H:M 1/10:45 #2264 cr DATA:1009 -> crpos:9 = Tufted duck
+{43:45} Day/H:M 1/10:45 creature_swap()
+{43:45} Day/H:M 1/10:45 curmap: BIGMAP isox,isoy: 1285,983 mintick: 165
+{43:45} Day/H:M 1/10:45 COMPANYZOOMCHECKED: 1
+{43:45} Day/H:M 1/10:45 parsing DATA
+{43:57} Day/H:M 1/10:46 creature_swap()
+{43:57} Day/H:M 1/10:46 curmap: ZOOMMAP isox,isoy: 1285,983 mintick: 166
+{43:57} Day/H:M 1/10:46 COMPANYZOOMCHECKED: 1
+{43:57} Day/H:M 1/10:46 parsing DATA
+{43:57} Day/H:M 1/10:46 #202 cr DATA:1000 -> crpos:0 = elk
+{43:57} Day/H:M 1/10:46 #813 cr DATA:1001 -> crpos:1 = Willow grouse
+{43:57} Day/H:M 1/10:46 #1450 cr DATA:1002 -> crpos:2 = Willow grouse
+{43:57} Day/H:M 1/10:46 #2260 cr DATA:1003 -> crpos:3 = Goldeneye
+{43:57} Day/H:M 1/10:46 #2332 cr DATA:1004 -> crpos:4 = Goldeneye
+{43:57} Day/H:M 1/10:46 #2333 cr DATA:1005 -> crpos:5 = Goldeneye
+{43:57} Day/H:M 1/10:46 #2334 cr DATA:1006 -> crpos:6 = Tufted duck
+{43:57} Day/H:M 1/10:46 #2335 cr DATA:1007 -> crpos:7 = Goldeneye
+{43:57} Day/H:M 1/10:46 #2336 cr DATA:1008 -> crpos:8 = Tufted duck
+{43:57} Day/H:M 1/10:46 #2337 cr DATA:1009 -> crpos:9 = Goldeneye
+{43:57} Day/H:M 1/10:46 creature_swap()
+{43:57} Day/H:M 1/10:46 curmap: ZOOMMAP isox,isoy: 1285,983 mintick: 166
+{43:57} Day/H:M 1/10:46 COMPANYZOOMCHECKED: 1
+{43:57} Day/H:M 1/10:46 parsing DATA
+{43:57} Day/H:M 1/10:46 #202 cr DATA:1000 -> crpos:0 = elk
+{43:57} Day/H:M 1/10:46 #813 cr DATA:1001 -> crpos:1 = Willow grouse
+{43:57} Day/H:M 1/10:46 #1450 cr DATA:1002 -> crpos:2 = Willow grouse
+{43:57} Day/H:M 1/10:46 #2260 cr DATA:1003 -> crpos:3 = Goldeneye
+{43:57} Day/H:M 1/10:46 #2332 cr DATA:1004 -> crpos:4 = Goldeneye
+{43:57} Day/H:M 1/10:46 #2333 cr DATA:1005 -> crpos:5 = Goldeneye
+{43:57} Day/H:M 1/10:46 #2334 cr DATA:1006 -> crpos:6 = Tufted duck
+{43:57} Day/H:M 1/10:46 #2335 cr DATA:1007 -> crpos:7 = Goldeneye
+{43:57} Day/H:M 1/10:46 #2336 cr DATA:1008 -> crpos:8 = Tufted duck
+{43:57} Day/H:M 1/10:46 #2337 cr DATA:1009 -> crpos:9 = Goldeneye
+{43:58} Day/H:M 1/10:46 creature_swap()
+{43:58} Day/H:M 1/10:46 curmap: BIGMAP isox,isoy: 1285,983 mintick: 166
+{43:58} Day/H:M 1/10:46 COMPANYZOOMCHECKED: 1
+{43:58} Day/H:M 1/10:46 parsing DATA
+{45:51} Day/H:M 1/10:50 creature_swap()
+{45:51} Day/H:M 1/10:50 curmap: ZOOMMAP isox,isoy: 1285,983 mintick: 170
+{45:51} Day/H:M 1/10:50 COMPANYZOOMCHECKED: 0
+{45:51} Day/H:M 1/10:50 parsing DATA
+{45:51} Day/H:M 1/10:50 #888 cr DATA:1000 -> crpos:0 = Willow grouse
+{45:51} Day/H:M 1/10:50 #1402 cr DATA:1001 -> crpos:1 = Willow grouse
+{45:51} Day/H:M 1/10:50 #1403 cr DATA:1002 -> crpos:2 = elk
+{45:51} Day/H:M 1/10:50 #2352 cr DATA:1003 -> crpos:3 = Goldeneye
+{45:51} Day/H:M 1/10:50 #2424 cr DATA:1004 -> crpos:4 = Goldeneye
+{45:51} Day/H:M 1/10:50 #2425 cr DATA:1005 -> crpos:5 = Goldeneye
+{45:51} Day/H:M 1/10:50 #2426 cr DATA:1006 -> crpos:6 = Tufted duck
+{45:51} Day/H:M 1/10:50 #2427 cr DATA:1007 -> crpos:7 = Goldeneye
+{45:51} Day/H:M 1/10:50 #2428 cr DATA:1008 -> crpos:8 = Goldeneye
+{45:51} Day/H:M 1/10:50 #2429 cr DATA:1009 -> crpos:9 = Tufted duck
+{45:51} Day/H:M 1/10:50 creature_swap()
+{45:51} Day/H:M 1/10:50 curmap: BIGMAP isox,isoy: 1283,983 mintick: 170
+{45:51} Day/H:M 1/10:50 COMPANYZOOMCHECKED: 0
+{45:51} Day/H:M 1/10:50 parsing DATA
+{4:1} Day/H:M 2/1:17 creature_swap()
+{4:1} Day/H:M 2/1:17 curmap: ZOOMMAP isox,isoy: 1283,983 mintick: 1037
+{4:1} Day/H:M 2/1:17 COMPANYZOOMCHECKED: 1
+{4:1} Day/H:M 2/1:17 parsing DATA
+{4:1} Day/H:M 2/1:17 #1302 cr DATA:1000 -> crpos:0 = elk
+{4:1} Day/H:M 2/1:17 #2035 cr DATA:1001 -> crpos:1 = Willow grouse
+{4:1} Day/H:M 2/1:17 #2405 cr DATA:1002 -> crpos:2 = Goldeneye
+{4:1} Day/H:M 2/1:17 #2603 cr DATA:1003 -> crpos:3 = Goldeneye
+{4:1} Day/H:M 2/1:17 #3252 cr DATA:1004 -> crpos:4 = Goldeneye
+{4:1} Day/H:M 2/1:17 #3253 cr DATA:1005 -> crpos:5 = Tufted duck
+{4:1} Day/H:M 2/1:17 #3254 cr DATA:1006 -> crpos:6 = Kuikka
+{4:1} Day/H:M 2/1:17 #3255 cr DATA:1007 -> crpos:7 = Kuikka
+{4:1} Day/H:M 2/1:17 #3256 cr DATA:1008 -> crpos:8 = Kuikka
+{4:2} Day/H:M 2/1:17 creature_swap()
+{4:2} Day/H:M 2/1:17 curmap: ZOOMMAP isox,isoy: 1283,983 mintick: 1037
+{4:2} Day/H:M 2/1:17 COMPANYZOOMCHECKED: 1
+{4:2} Day/H:M 2/1:17 parsing DATA
+{4:2} Day/H:M 2/1:17 #1302 cr DATA:1000 -> crpos:0 = elk
+{4:2} Day/H:M 2/1:17 #2035 cr DATA:1001 -> crpos:1 = Willow grouse
+{4:2} Day/H:M 2/1:17 #2405 cr DATA:1002 -> crpos:2 = Goldeneye
+{4:2} Day/H:M 2/1:17 #2603 cr DATA:1003 -> crpos:3 = Goldeneye
+{4:2} Day/H:M 2/1:17 #3252 cr DATA:1004 -> crpos:4 = Goldeneye
+{4:2} Day/H:M 2/1:17 #3253 cr DATA:1005 -> crpos:5 = Tufted duck
+{4:2} Day/H:M 2/1:17 #3254 cr DATA:1006 -> crpos:6 = Kuikka
+{4:2} Day/H:M 2/1:17 #3255 cr DATA:1007 -> crpos:7 = Kuikka
+{4:2} Day/H:M 2/1:17 #3256 cr DATA:1008 -> crpos:8 = Kuikka
+{4:3} Day/H:M 2/1:17 creature_swap()
+{4:3} Day/H:M 2/1:17 curmap: BIGMAP isox,isoy: 1283,982 mintick: 1037
+{4:3} Day/H:M 2/1:17 COMPANYZOOMCHECKED: 1
+{4:3} Day/H:M 2/1:17 parsing DATA

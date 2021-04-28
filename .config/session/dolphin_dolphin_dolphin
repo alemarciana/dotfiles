@@ -1,0 +1,27 @@
+[1]
+Active Tab Index=0
+Tab Count=1
+Tab Data 0=\x00\x00\x00\x02\x00\x00\x00\x00Efile:///home/alessandra/Downloads/tor-browser_en-US/Browser/Downloads\x00\x00\x00\x00\x01\x00\x00\x00Lfile:///home/alessandra/Downloads/tor-browser_en-US/Browser/Downloads/things\x00\x00\x00\x01\x00\x00\x00Lfile:///home/alessandra/Downloads/tor-browser_en-US/Browser/Downloads/things\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x1b\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x01\x00\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
+Tab Data 1=\x00\x00\x00\x02\x00\x00\x00\x00_file:///run/media/alessandra/B0E82435E823F86C/Desktop/Juegos/emuladores/j2me/828%20Java%20Games\x00\x00\x00\x00\x01\xff\xff\xff\xff\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x1b\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x01\x00\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
+Tab Data 2=\x00\x00\x00\x02\x00\x00\x00\x00.file:///home/alessandra/Juegos/emuladores/J2ME\x00\x00\x00\x00\x01\x00\x00\x00Ifile:///home/alessandra/Juegos/emuladores/J2ME/3D_Racing_Fever_GT_103.jar\x00\x00\x00\x0c\x00\x00\x00Ifile:///home/alessandra/Juegos/emuladores/J2ME/3D_Racing_Fever_GT_103.jar\x00\x00\x00Dfile:///home/alessandra/Juegos/emuladores/J2ME/AgeOfEmpires2_101.jar\x00\x00\x00Ifile:///home/alessandra/Juegos/emuladores/J2ME/Alien%20Vs.%20Predator.jar\x00\x00\x00Efile:///home/alessandra/Juegos/emuladores/J2ME/Aliens%20Unleashed.jar\x00\x00\x00@file:///home/alessandra/Juegos/emuladores/J2ME/Banjo-Kazooie.jar\x00\x00\x00>file:///home/alessandra/Juegos/emuladores/J2ME/BerlinChaos.jar\x00\x00\x00Sfile:///home/alessandra/Juegos/emuladores/J2ME/Block%20Breaker%20Deluxe%20(joy).jar\x00\x00\x00Gfile:///home/alessandra/Juegos/emuladores/J2ME/Brothers%20In%20Arms.jar\x00\x00\x00>file:///home/alessandra/Juegos/emuladores/J2ME/Castlevania.jar\x00\x00\x00Cfile:///home/alessandra/Juegos/emuladores/J2ME/Counter%20strike.jar\x00\x00\x00@file:///home/alessandra/Juegos/emuladores/J2ME/Counterstrike.jar\x00\x00\x00Mfile:///home/alessandra/Juegos/emuladores/J2ME/CrashBandicootTwinsanity3D.jar\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x1b\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x01\x00\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
+
+[WindowProperties1]
+ClassName=DolphinMainWindow
+HDMI-1 eDP-1 Height 768=480
+HDMI-1 eDP-1 Width 1360=640
+HDMI-1 eDP-1 Window-Maximized 768x1360=true
+HDMI-1 eDP-1 Window-Maximized 768x1366=true
+HDMI-1 eDP-1 XPosition=1374
+HDMI-1 eDP-1 YPosition=8
+MenuBar=Disabled
+ObjectName=Dolphin#1
+RestorePositionForNextInstance=false
+State=AAAA/wAAAAD9AAAAAwAAAAAAAADqAAACnfwCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAA/////wAAAAoBAAAD+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAAmAAACnQAAAF0BAAADAAAAAQAAAAAAAAAA/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAAAAAAD/////AAAACgEAAAMAAAADAAAAAAAAAAD8AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAA/////wAAAAoBAAADAAAEVQAAAp0AAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+eDP-1 Window-Maximized 768x1366=true
+eDP-1 XPosition=350
+eDP-1 YPosition=8
+eDP-1-1 Height 768=689
+eDP-1-1 Width 1366=818
+eDP-1-1 XPosition=540
+eDP-1-1 YPosition=26

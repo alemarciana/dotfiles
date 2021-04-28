@@ -1,0 +1,2 @@
+#!/bin/sh
+feh --no-fehbg --bg-fill '/home/alessandra/Wallpapers/silence.png' '/home/alessandra/Wallpapers/girl-car.jpg' 

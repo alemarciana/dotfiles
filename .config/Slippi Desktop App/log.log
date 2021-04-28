@@ -1,0 +1,38 @@
+[2021-03-21 20:17:40.853] [info] App starting...
+[2021-03-21 20:17:41.003] [info] Checking if Dolphin path has been moved...
+[2021-03-21 20:17:41.004] [info] Exe path: /tmp/.mount_SlippiBwBmMh/AppRun
+[2021-03-21 20:17:41.006] [info] Install time is 1606540440000, previous install is undefined
+[2021-03-21 20:17:41.008] [info] Copying dolphin instance...
+[2021-03-21 20:17:41.174] [info] Done copying Dolphin
+[2021-03-21 20:17:41.175] [info] Transferring settings from previous Slippi Launcher install...
+[2021-03-21 20:17:41.175] [warn] Failed to transfer settings. Maybe old version didn't exist?
+[2021-03-21 20:17:41.256] [info] Handling URL...
+[2021-03-21 20:17:41.257] [info] 
+[2021-03-21 20:17:41.257] [info] protocol: null:, hostname: null
+[2021-03-21 20:17:46.658] [info] Checking for update
+[2021-03-21 20:17:46.883] [info] Generated new staging user ID: 665c566e-4bc1-5982-802c-f94dd75b94ee
+[2021-03-21 20:17:50.848] [info] Found version 1.6.7 (url: Slippi-Launcher-1.6.7-x86_64.AppImage)
+[2021-03-21 20:17:50.850] [info] Downloading update from Slippi-Launcher-1.6.7-x86_64.AppImage
+[2021-03-21 20:17:50.886] [info] No cached update info available
+[2021-03-21 20:17:57.453] [info] File has 5106 changed blocks
+[2021-03-21 20:17:57.466] [info] Full: 192,947.56 KB, To download: 105,560.21 KB (55%)
+[2021-03-21 20:17:57.468] [info] Differential download: https://github.com/project-slippi/slippi-desktop-app/releases/download/v1.6.7/Slippi-Launcher-1.6.7-x86_64.AppImage
+[2021-03-21 20:17:57.718] [info] Redirect to https://github-releases.githubusercontent.com/164273855/a6c6a280-828c-11eb-8013-50a8996c971d
+[2021-03-21 20:18:34.664] [info] Writing to Dolphin comm file: {"mode":"normal","replay":"/home/alessandra/Slippi/Game_20210321T194207.slp","isRealTimeMode":false,"commandId":"8e924fa136b60148b38f02d1"}
+[2021-03-21 20:19:27.964] [info] New version 1.6.7 has been downloaded to /home/alessandra/.cache/slippi-desktop-app-updater/pending/Slippi-Launcher-1.6.7-x86_64.AppImage
+[2021-03-21 20:19:48.784] [info] Writing to Dolphin comm file: {"mode":"normal","replay":"/home/alessandra/Slippi/Game_20210321T194207.slp","isRealTimeMode":false,"commandId":"be0804e0b2f76286028a0930"}
+[2021-03-21 21:31:04.286] [info] App starting...
+[2021-03-21 21:31:04.430] [info] Checking if Dolphin path has been moved...
+[2021-03-21 21:31:04.431] [info] Exe path: /tmp/.mount_Slippi0l7vmW/AppRun
+[2021-03-21 21:31:04.433] [info] Install time is 1615481580000, previous install is 1606540440000
+[2021-03-21 21:31:04.434] [info] Copying dolphin instance...
+[2021-03-21 21:31:04.672] [info] Done copying Dolphin
+[2021-03-21 21:31:04.672] [info] ISO path found
+[2021-03-21 21:31:04.756] [info] Handling URL...
+[2021-03-21 21:31:04.757] [info] 
+[2021-03-21 21:31:04.757] [info] protocol: null:, hostname: null
+[2021-03-21 21:31:06.162] [info] Checking for update
+[2021-03-21 21:31:08.983] [info] Update for version 1.6.7 is not available (latest version: 1.6.7, downgrade is disallowed).
+[2021-03-21 21:32:05.667] [info] Writing to Dolphin comm file: {"mode":"normal","replay":"/home/alessandra/Slippi/Game_20210321T200008.slp","isRealTimeMode":false,"commandId":"1971fc91c1f5e4258df40410","startFrame":-123}
+[2021-03-21 21:41:33.367] [info] Writing to Dolphin comm file: {"mode":"normal","replay":"/home/alessandra/Slippi/Game_20210321T201046.slp","isRealTimeMode":false,"commandId":"80f796fd09574f467dae8f81","startFrame":-123}
+[2021-03-21 21:41:45.278] [info] Writing to Dolphin comm file: {"mode":"normal","replay":"/home/alessandra/Slippi/Game_20210321T194551.slp","isRealTimeMode":false,"commandId":"8bf4678257668db3aac4f52b","startFrame":-123}

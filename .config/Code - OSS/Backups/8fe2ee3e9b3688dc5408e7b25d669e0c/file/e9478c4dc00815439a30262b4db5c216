@@ -1,0 +1,75 @@
+file:///home/alessandra/git-sources/xgammer/src/app/inicio/inicio.component.html {"mtime":1606458323081,"ctime":1606431573389,"size":2672,"etag":"363l6ff402o6","orphaned":false}
+<div class="bMenu">
+    <ul>
+        <li> <a [routerLink]="['/v-usuario']" routerLinkActive="active"><p class="logo">X-Gammer</p></a></li>
+        <li><select name="Seleccione" class="opcion">
+            <option value="">filtro</option>
+            <option value="">plataforma</option>
+            <option value="">estado</option>
+        </select></li>
+        <li><label for="">ingresar nombre</label>
+            <input type="search" name="" placeholder="ingresar nombre" class="buscar">
+        </li>
+        <li><label for="">buscar</label>
+            <input type="button" value="buscar">
+        </li>
+        <li><label for="">Mis publicaciones</label>
+            <input type="button" value="iniciar sesion" [routerLink]="['/login']" routerLinkActive="active" class="btnPublicaciones"></li>
+        <li><label for="">cerrar sesion</label>
+            <input type="button" value="registrarse" [routerLink]="['/registro']" routerLinkActive="active" class="btnInicio"></li>
+    </ul>
+</div> 
+
+<div class="contenido"> <!-- bloque general que contiene a los bloque 1,2,3 y 4 -->
+    <div class="contenido1"> <!--Agregar con li y ngfor-->   
+        <ul class="bloque1" *ngFor="let juego of juegos">
+            <li><img src="./assets/img/pes.jpg" class="imagen"></li>
+            <li>
+                <ul class="parrafos">
+                    <li>{{juego.nombre}}</li>
+                    <li>{{juego.precio}}</li>
+                    <li>{{juego.genero}}</li>
+                    <li>{{juego.estado}}</li>
+                </ul>
+            </li>
+        </ul>
+    <!--<div class="bloque1">
+        <img src="./assets/img/pes.jpg" class="imagen"> 
+        <div class="parrafos">
+            <p>Nombre del juego</p>
+            <p>$precio</p>
+            <p>Genero</p>
+            <p>Estado</p>      
+        </div>
+    </div> 
+    <div class="bloque2">
+         <img src="./assets/img/metal.jpg" class="imagen"> 
+        <div class="parrafos">
+            <p>Nombre del juego</p>
+            <p>$precio</p>
+            <p>Genero</p>
+            <p>estado</p>
+        </div>
+    </div> 
+    </div>
+    <div class="contenido2">
+    <div class="bloque3">
+         <img src="./assets/img/zelda.jpg" class="imagen"> 
+        <div class="parrafos">
+            <p>Nombre del juego</p>
+            <p>$precio</p>
+            <p>Genero</p>
+            <p>estado</p>
+        </div>
+    </div> 
+    <div class="bloque4">
+         <img src="./assets/img/resident.jpg" class="imagen">
+        <div class="parrafos">
+            <p>Nombre del juego</p>
+            <p>$precio</p>
+            <p>Genero</p>
+            <p>estado</p>
+        </div>
+    </div> -->
+    </div>
+</div>

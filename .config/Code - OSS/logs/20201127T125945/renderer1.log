@@ -1,0 +1,73 @@
+[2020-11-27 13:50:26.525] [renderer1] [error] <semantic> TypeScript Server Error (4.0.3)
+Cannot read property 'kind' of undefined
+TypeError: Cannot read property 'kind' of undefined
+    at Object.isUnionTypeNode (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:25469:21)
+    at addUndefinedType (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:137408:28)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:137402:92
+    at Function.ChangeTracker.with (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:129425:17)
+    at getActionForAddMissingUndefinedType (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:137402:60)
+    at Object.getCodeActions (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:137357:21)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:130599:77
+    at Object.flatMap (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:513:25)
+    at Object.getFixes (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:130599:23)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:143796:35
+    at Object.flatMap (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:513:25)
+    at Proxy.getCodeFixesAtPosition (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:143794:23)
+    at IOSession.Session.getCodeFixes (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:154662:64)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:153339:61)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:154962:88
+    at IOSession.Session.executeWithRequestId (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:154953:28)
+    at IOSession.Session.executeCommand (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:154962:33)
+    at IOSession.Session.onMessage (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:154986:35)
+    at Interface.<anonymous> (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:157202:27)
+    at Interface.emit (events.js:223:5)
+    at Interface._onLine (readline.js:315:10)
+    at Interface._normalWrite (readline.js:460:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:223:5)
+    at addChunk (_stream_readable.js:309:12)
+    at readableAddChunk (_stream_readable.js:290:11)
+    at Socket.Readable.push (_stream_readable.js:224:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:181:23): Error: <semantic> TypeScript Server Error (4.0.3)
+Cannot read property 'kind' of undefined
+TypeError: Cannot read property 'kind' of undefined
+    at Object.isUnionTypeNode (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:25469:21)
+    at addUndefinedType (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:137408:28)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:137402:92
+    at Function.ChangeTracker.with (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:129425:17)
+    at getActionForAddMissingUndefinedType (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:137402:60)
+    at Object.getCodeActions (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:137357:21)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:130599:77
+    at Object.flatMap (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:513:25)
+    at Object.getFixes (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:130599:23)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:143796:35
+    at Object.flatMap (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:513:25)
+    at Proxy.getCodeFixesAtPosition (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:143794:23)
+    at IOSession.Session.getCodeFixes (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:154662:64)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:153339:61)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:154962:88
+    at IOSession.Session.executeWithRequestId (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:154953:28)
+    at IOSession.Session.executeCommand (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:154962:33)
+    at IOSession.Session.onMessage (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:154986:35)
+    at Interface.<anonymous> (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:157202:27)
+    at Interface.emit (events.js:223:5)
+    at Interface._onLine (readline.js:315:10)
+    at Interface._normalWrite (readline.js:460:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:223:5)
+    at addChunk (_stream_readable.js:309:12)
+    at readableAddChunk (_stream_readable.js:290:11)
+    at Socket.Readable.push (_stream_readable.js:224:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:181:23)
+	at Function.create (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:76476)
+	at dispatchResponse (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:70351)
+	at dispatchMessage (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:69210)
+	at /usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:68720
+	at l.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at g.onLengthData (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:45:60018)
+	at Socket.<anonymous> (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:45:59666)
+	at Socket.emit (events.js:223:5)
+	at addChunk (_stream_readable.js:309:12)
+	at readableAddChunk (_stream_readable.js:290:11)
+	at Socket.Readable.push (_stream_readable.js:224:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:181:23)

@@ -1,0 +1,37 @@
+<unity_prefs version_major="1" version_minor="1">
+	<pref name="AntiAliasing" type="int">2</pref>
+	<pref name="CameraShake" type="float">1</pref>
+	<pref name="ControllerMapping_ControllerAssignments" type="string">eyJwbGF5ZXJzIjpbeyJpZCI6OTk5OTk5OSwiaGFzS2V5Ym9hcmQiOnRydWUsImhhc01vdXNlIjp0cnVlLCJqb3lzdGlja3MiOltdfSx7ImlkIjowLCJoYXNLZXlib2FyZCI6dHJ1ZSwiaGFzTW91c2UiOnRydWUsImpveXN0aWNrcyI6W3siaW5zdGFuY2VHdWlkIjoiZDliZDZiMmUtMDJlNy1jZTYzLTgxNjktYTYxMTZlNTc0ZmE1IiwiaGFyZHdhcmVJZGVudGlmaWVyIjoiTGludXhMaW51eFhib3hHYW1lcGFkKHVzZXJzcGFjZWRyaXZlcikwMDAwMDAwMDAtMDAwMC0wMDAwLTAwMDAtNTA0OTQ0NTY0OTQ0IiwiaWQiOjB9XX1dfQ==</pref>
+	<pref name="DevCommMode" type="float">0</pref>
+	<pref name="GammaValue" type="float">0</pref>
+	<pref name="GraphicsQuality" type="int">2</pref>
+	<pref name="I2 Language" type="string">U3BhbmlzaA==</pref>
+	<pref name="InvertYAxis" type="float">0</pref>
+	<pref name="Language" type="string">U3BhbmlzaA==</pref>
+	<pref name="LanguageCode" type="string">ZXM=</pref>
+	<pref name="MasterVolume" type="float">1</pref>
+	<pref name="MouseSensitivity" type="float">2</pref>
+	<pref name="MusicVolume" type="float">1</pref>
+	<pref name="SSAO" type="int">2</pref>
+	<pref name="SSR" type="int">2</pref>
+	<pref name="Screenmanager Fullscreen mode" type="int">1</pref>
+	<pref name="Screenmanager Fullscreen mode Default" type="int">0</pref>
+	<pref name="Screenmanager Resolution Height" type="int">768</pref>
+	<pref name="Screenmanager Resolution Height Default" type="int">1080</pref>
+	<pref name="Screenmanager Resolution Use Native" type="int">1</pref>
+	<pref name="Screenmanager Resolution Use Native Default" type="int">0</pref>
+	<pref name="Screenmanager Resolution Width" type="int">1360</pref>
+	<pref name="Screenmanager Resolution Width Default" type="int">1920</pref>
+	<pref name="ShadowQuality" type="int">0</pref>
+	<pref name="ShadowResolution" type="int">3</pref>
+	<pref name="SoundVolume" type="float">1</pref>
+	<pref name="Subtitles" type="float">1</pref>
+	<pref name="TextureQuality" type="int">0</pref>
+	<pref name="UIVolume" type="float">1</pref>
+	<pref name="UnitySelectMonitor" type="int">0</pref>
+	<pref name="VoiceVolume" type="float">1</pref>
+	<pref name="VolumetricLight" type="int">2</pref>
+	<pref name="Vsync" type="float">1</pref>
+	<pref name="unity.player_session_count" type="string">Mg==</pref>
+	<pref name="unity.player_sessionid" type="string">NzMwODQ5NDU0MDg1MDEyNDAyNw==</pref>
+</unity_prefs>

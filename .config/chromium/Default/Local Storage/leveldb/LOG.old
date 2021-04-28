@@ -1,0 +1,6 @@
+2021/04/27-17:16:40.215 3 Reusing MANIFEST /home/alessandra/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2021/04/27-17:16:40.215 3 Recovering log #3
+2021/04/27-17:16:40.269 3 Reusing old log /home/alessandra/.config/chromium/Default/Local Storage/leveldb/000003.log 
+2021/04/27-17:17:47.965 5 Level-0 table #5: started
+2021/04/27-17:17:48.157 5 Level-0 table #5: 24511 bytes OK
+2021/04/27-17:17:48.281 5 Delete type=0 #3

@@ -1,0 +1,46 @@
+[General]
+Version=200
+ViewPropsTimestamp=2020,11,13,4,14,53
+
+[KPropertiesDialog]
+HDMI-1 eDP-1 Height 768=520
+HDMI-1 eDP-1 Width 1360=471
+HDMI-1 eDP-1 Width 1366=426
+eDP-1 Height 768=544
+eDP-1 Width 1366=471
+eDP-1-1 Height 768=444
+eDP-1-1 Width 1366=549
+
+[MainWindow]
+HDMI-1 eDP-1 Height 1080=500
+HDMI-1 eDP-1 Height 1106=500
+HDMI-1 eDP-1 Height 768=500
+HDMI-1 eDP-1 Width 1366=750
+HDMI-1 eDP-1 Width 1920=750
+HDMI-1 eDP-1 Width 2021=750
+HDMI-1 eDP-1 Window-Maximized 1080x1920=true
+HDMI-1 eDP-1 Window-Maximized 576x720=true
+HDMI-1 eDP-1 Window-Maximized 720x1280=true
+HDMI-1 eDP-1 Window-Maximized 768x1360=true
+HDMI-1 eDP-1 Window-Maximized 768x1366=true
+HDMI-1 eDP-1 XPosition=1374
+HDMI-1 eDP-1 YPosition=8
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAwAAAAAAAADqAAACnfwCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAA/////wAAAAoBAAAD+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAAmAAACnQAAAF0BAAADAAAAAQAAAAAAAAAA/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAAAAAAD/////AAAACgEAAAMAAAADAAAAAAAAAAD8AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAA/////wAAAAoBAAADAAAEVQAAAp0AAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+eDP-1 HDMI-1 XPosition=0
+eDP-1 HDMI-1 YPosition=0
+eDP-1 Window-Maximized 768x1366=true
+eDP-1 XPosition=8
+eDP-1 YPosition=26
+eDP-1-1 Height 768=689
+eDP-1-1 Width 1366=818
+eDP-1-1 XPosition=540
+eDP-1-1 YPosition=26
+
+[Open-with settings]
+CompletionMode=1
+History=vl,vlc
+
+[kuick-copy]
+Paths[$e]=$HOME/Applications/

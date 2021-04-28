@@ -1,0 +1,457 @@
+Looking for git in: git
+Using git 2.29.2 from git
+> git rev-parse --git-dir
+Open repository: /home/alessandra/git-sources/beca-everis
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :front/ngSpringTest/src/app/login/login.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/app/login/login.component.html
+> git show --textconv :front/ngSpringTest/src/app/services/login.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/app/services/login.service.ts
+> git show --textconv :front/ngSpringTest/src/app/login/login.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/app/login/login.component.ts
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :front/ngSpringTest/src/app/dto/user.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/app/dto/user.ts
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :front/ngSpringTest/src/app/services/login.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/app/services/login.service.ts
+> git show --textconv :front/ngSpringTest/src/app/login/login.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/app/login/login.component.ts
+> git show --textconv :front/ngSpringTest/src/app/login/login.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/app/login/login.component.html
+> git show --textconv :front/ngSpringTest/src/app/dto/user.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/app/dto/user.ts
+> git show --textconv :front/ngSpringTest/src/app/services/login.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/app/services/login.service.ts
+> git show --textconv :front/ngSpringTest/src/app/app-routing.module.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/app/app-routing.module.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :front/ngSpringTest/src/app/dto/user.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/app/dto/user.ts
+> git show --textconv :front/ngSpringTest/src/app/login/login.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/app/login/login.component.ts
+> git show --textconv :front/ngSpringTest/src/app/services/login.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/app/services/login.service.ts
+> git show --textconv :front/proyectoAngular1/src/app/services/login.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/proyectoAngular1/src/app/services/login.service.ts
+> git check-ignore -v -z --stdin
+> git show --textconv :front/ngSpringTest/src/app/services/login.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/app/services/login.service.ts
+> git show --textconv :front/proyectoAngular1/src/app/persona.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/proyectoAngular1/src/app/persona.service.ts
+> git check-ignore -v -z --stdin
+> git show --textconv :front/ngSpringTest/src/app/services/login.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/app/services/login.service.ts
+> git show --textconv :front/proyectoAngular1/src/app/persona.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/proyectoAngular1/src/app/persona.service.ts
+> git show --textconv :front/ngSpringTest/src/app/services/login.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/app/services/login.service.ts
+> git show --textconv :front/proyectoAngular1/src/app/persona.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/proyectoAngular1/src/app/persona.service.ts
+> git show --textconv :front/ngSpringTest/src/app/services/login.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/app/services/login.service.ts
+> git show --textconv :front/proyectoAngular1/src/app/persona.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/proyectoAngular1/src/app/persona.service.ts
+> git show --textconv :front/ngSpringTest/src/app/services/login.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/app/services/login.service.ts
+> git show --textconv :front/proyectoAngular1/src/app/persona.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/proyectoAngular1/src/app/persona.service.ts
+> git show --textconv :front/ngSpringTest/src/app/services/login.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/app/services/login.service.ts
+> git show --textconv :front/proyectoAngular1/src/app/persona.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/proyectoAngular1/src/app/persona.service.ts
+> git show --textconv :front/ngSpringTest/src/app/services/login.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/app/services/login.service.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :front/proyectoAngular1/src/app/persona.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/proyectoAngular1/src/app/persona.service.ts
+> git show --textconv :front/ngSpringTest/src/app/services/login.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/app/services/login.service.ts
+> git show --textconv :front/proyectoAngular1/src/app/persona.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/proyectoAngular1/src/app/persona.service.ts
+> git show --textconv :front/ngSpringTest/src/app/services/login.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/app/services/login.service.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :front/ngSpringTest/src/app/dto/user.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/app/dto/user.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :front/ngSpringTest/src/app/services/login.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/app/services/login.service.ts
+> git show --textconv :front/proyectoAngular1/src/app/persona.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/proyectoAngular1/src/app/persona.service.ts
+> git show --textconv :front/ngSpringTest/src/app/services/login.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/app/services/login.service.ts
+> git show --textconv :front/proyectoAngular1/src/app/persona.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/proyectoAngular1/src/app/persona.service.ts
+> git show --textconv :front/ngSpringTest/src/app/services/login.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/app/services/login.service.ts
+> git show --textconv :front/proyectoAngular1/src/app/persona.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/proyectoAngular1/src/app/persona.service.ts
+> git show --textconv :front/ngSpringTest/src/app/services/login.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/app/services/login.service.ts
+> git show --textconv :front/proyectoAngular1/src/app/persona.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/proyectoAngular1/src/app/persona.service.ts
+> git show --textconv :front/ngSpringTest/src/app/services/login.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/app/services/login.service.ts
+> git show --textconv :front/proyectoAngular1/src/app/persona.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/proyectoAngular1/src/app/persona.service.ts
+> git show --textconv :front/ngSpringTest/src/app/services/login.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/app/services/login.service.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :front/ngSpringTest/src/app/app.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/app/app.component.html
+> git show --textconv :front/ngSpringTest/src/app/dto/user.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/app/dto/user.ts
+> git show --textconv :front/proyectoAngular1/src/app/persona.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/proyectoAngular1/src/app/persona.service.ts
+> git show --textconv :front/ngSpringTest/src/app/services/login.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/app/services/login.service.ts
+> git show --textconv :front/ngSpringTest/src/app/app.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/app/app.component.html
+> git show --textconv :front/ngSpringTest/src/index.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/index.html
+> git show --textconv :front/ngSpringTest/src/app/app-routing.module.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/app/app-routing.module.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :front/ngSpringTest/src/app/app.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/app/app.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :front/ngSpringTest/src/app/login/login.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/app/login/login.component.html
+> git show --textconv :front/ngSpringTest/src/app/app.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/app/app.component.html
+> git show --textconv :front/proyectoAngular1/src/app/persona.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/proyectoAngular1/src/app/persona.service.ts
+> git show --textconv :front/ngSpringTest/src/app/login/login.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/app/login/login.component.ts
+> git show --textconv :front/ngSpringTest/src/app/services/login.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/app/services/login.service.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :front/proyectoAngular1/src/app/persona.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/proyectoAngular1/src/app/persona.service.ts
+> git show --textconv :front/ngSpringTest/src/app/login/login.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/app/login/login.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :front/ngSpringTest/src/app/app-routing.module.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/app/app-routing.module.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :front/proyectoAngular1/src/app/persona.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/proyectoAngular1/src/app/persona.service.ts
+> git show --textconv :front/ngSpringTest/src/app/app-routing.module.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/app/app-routing.module.ts
+> git show --textconv :front/ngSpringTest/src/app/services/login.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/app/services/login.service.ts
+> git show --textconv :front/ngSpringTest/src/app/app.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/app/app.component.html
+> git show --textconv :front/ngSpringTest/src/app/services/login.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/app/services/login.service.ts
+> git show --textconv :front/ngSpringTest/src/app/app.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/app/app.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :front/ngSpringTest/src/index.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/index.html
+> git show --textconv :front/ngSpringTest/src/app/app.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/app/app.component.html
+> git show --textconv :front/ngSpringTest/src/app/services/login.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/app/services/login.service.ts
+> git show --textconv :front/ngSpringTest/src/app/login/login.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/app/login/login.component.ts
+> git show --textconv :front/ngSpringTest/src/app/app.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/app/app.component.html
+> git show --textconv :front/ngSpringTest/src/app/login/login.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/app/login/login.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :front/ngSpringTest/src/app/app.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/app/app.component.html
+> git show --textconv :front/ngSpringTest/src/app/app-routing.module.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/app/app-routing.module.ts
+> git show --textconv :front/ngSpringTest/src/app/services/login.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/app/services/login.service.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :front/ngSpringTest/src/app/login/login.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/app/login/login.component.ts
+> git show --textconv :front/ngSpringTest/src/app/app.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/app/app.component.html
+> git show --textconv :front/ngSpringTest/src/app/login/login.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/app/login/login.component.ts
+> git show --textconv :front/ngSpringTest/src/app/app.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/app/app.component.ts
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :front/ngSpringTest/src/app/services/login.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/app/services/login.service.ts
+> git show --textconv :front/ngSpringTest/src/app/login/login.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/app/login/login.component.html
+> git show --textconv :front/ngSpringTest/src/app/app.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/app/app.component.html
+> git show --textconv :front/ngSpringTest/src/app/login/login.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/app/login/login.component.ts
+> git show --textconv :front/ngSpringTest/src/app/app-routing.module.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/app/app-routing.module.ts
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :front/ngSpringTest/src/app/services/login.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/app/services/login.service.ts
+> git show --textconv :front/ngSpringTest/src/app/app.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/app/app.component.ts
+> git show --textconv :front/ngSpringTest/src/app/app.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/app/app.component.html
+> git show --textconv :front/ngSpringTest/src/app/app.module.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/app/app.module.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :front/ngSpringTest/src/app/services/login.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/app/services/login.service.ts
+> git show --textconv :front/ngSpringTest/src/app/app.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/app/app.component.html
+> git show --textconv :front/ngSpringTest/src/app/login/login.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/app/login/login.component.html
+> git show --textconv :front/ngSpringTest/src/app/login/login.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/app/login/login.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :front/ngSpringTest/src/app/login/login.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/app/login/login.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :front/ngSpringTest/src/app/login/login.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/app/login/login.component.ts
+> git show --textconv :front/ngSpringTest/src/app/dto/user.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/app/dto/user.ts
+> git show --textconv :front/ngSpringTest/src/app/app.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/app/app.component.html
+> git show --textconv :front/ngSpringTest/src/app/services/login.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/app/services/login.service.ts
+> git show --textconv :front/ngSpringTest/src/app/login/login.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/app/login/login.component.html
+> git show --textconv :front/ngSpringTest/src/app/app.module.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/app/app.module.ts
+> git show --textconv :front/ngSpringTest/src/app/app-routing.module.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/app/app-routing.module.ts
+> git show --textconv :front/ngSpringTest/src/app/services/login.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/app/services/login.service.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :front/ngSpringTest/src/app/app.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/app/app.component.html
+> git show --textconv :front/ngSpringTest/src/app/app.module.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/app/app.module.ts
+> git show --textconv :front/ngSpringTest/src/app/app.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/app/app.component.html
+> git show --textconv :front/ngSpringTest/src/app/app.module.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/app/app.module.ts
+> git show --textconv :front/ngSpringTest/src/app/services/login.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/app/services/login.service.ts
+> git show --textconv :front/ngSpringTest/src/app/app.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/app/app.component.html
+> git show --textconv :front/ngSpringTest/src/app/login/login.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/app/login/login.component.html
+> git check-ignore -v -z --stdin
+> git show --textconv :front/ngSpringTest/src/app/header/header.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/app/header/header.component.html
+> git check-ignore -v -z --stdin
+> git show --textconv :front/ngSpringTest/src/app/home/home.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/beca-everis/front/ngSpringTest/src/app/home/home.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/alessandra/git-sources/beca-everis/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template

@@ -1,0 +1,30 @@
+[$Version]
+update_info=ksmserver_update_loginMode_value.upd:ksmserver_update_loginMode_value_default_enum
+
+[LegacySession: saved at previous logout]
+clientMachine1=localhost
+command1=pavucontrol
+count=1
+
+[Session: saved at previous logout]
+clientId1=102532341cf242000160807439700003528010007
+clientId2=102532341cf242000160807439700003528010008
+clientId3=102532341cf242000160525067100000011070008
+clientId4=102532341cf242000160737962900000547890010
+count=4
+program1=/usr/bin/msm_kde_notifier
+program2=/usr/bin/pamac-tray-plasma
+program3=/usr/lib/xdg-desktop-portal-kde
+program4=firefox
+restartCommand1=/usr/bin/msm_kde_notifier,-session,102532341cf242000160807439700003528010007_1609257055_114422
+restartCommand2=/usr/bin/pamac-tray-plasma,-session,102532341cf242000160807439700003528010008_1609257055_114599
+restartCommand3=/usr/lib/xdg-desktop-portal-kde,-session,102532341cf242000160525067100000011070008_1609257055_114541
+restartCommand4=/usr/lib/firefox/firefox,--sm-client-id,102532341cf242000160737962900000547890010
+restartStyleHint1=0
+restartStyleHint2=0
+restartStyleHint3=0
+restartStyleHint4=0
+userId1=alessandra
+userId2=alessandra
+userId3=alessandra
+userId4=alessandra

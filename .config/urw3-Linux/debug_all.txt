@@ -1,0 +1,484 @@
+Wed Mar 17 17:31:04 2021
+  creature_swap()
+Wed Mar 17 17:31:04 2021
+  curmap: BIGMAP isox,isoy: 1289,980 mintick: 4
+Wed Mar 17 17:31:04 2021
+  COMPANYZOOMCHECKED: 0
+Wed Mar 17 17:31:04 2021
+  parsing DATA
+Wed Mar 17 17:31:05 2021
+  creature_swap()
+Wed Mar 17 17:31:05 2021
+  curmap: BIGMAP isox,isoy: 1289,980 mintick: 4
+Wed Mar 17 17:31:05 2021
+  COMPANYZOOMCHECKED: 1
+Wed Mar 17 17:31:05 2021
+  parsing DATA
+Wed Mar 17 17:32:25 2021
+  creature_swap()
+Wed Mar 17 17:32:25 2021
+  curmap: ZOOMMAP isox,isoy: 1289,980 mintick: 10
+Wed Mar 17 17:32:25 2021
+  COMPANYZOOMCHECKED: 1
+Wed Mar 17 17:32:25 2021
+  parsing DATA
+Wed Mar 17 17:32:25 2021
+  #2176 cr DATA:1000 -> crpos:0 = Forester woodsman
+Wed Mar 17 17:32:25 2021
+  #2177 cr DATA:1001 -> crpos:1 = Forester hunter
+Wed Mar 17 17:32:25 2021
+  #2178 cr DATA:1002 -> crpos:2 = Forester Maiden
+Wed Mar 17 17:32:25 2021
+  #2179 cr DATA:1003 -> crpos:3 = Forester Woman
+Wed Mar 17 17:32:25 2021
+  #2180 cr DATA:1004 -> crpos:4 = Forester Maiden
+Wed Mar 17 17:32:25 2021
+  #2181 cr DATA:1005 -> crpos:5 = Forester kid
+Wed Mar 17 17:32:25 2021
+  #2184 cr DATA:1006 -> crpos:6 = Forester adventurer
+Wed Mar 17 17:32:25 2021
+  creature_swap()
+Wed Mar 17 17:32:25 2021
+  curmap: ZOOMMAP isox,isoy: 1289,980 mintick: 10
+Wed Mar 17 17:32:25 2021
+  COMPANYZOOMCHECKED: 1
+Wed Mar 17 17:32:25 2021
+  parsing DATA
+Wed Mar 17 17:32:25 2021
+  #2176 cr DATA:1000 -> crpos:0 = Forester woodsman
+Wed Mar 17 17:32:25 2021
+  #2177 cr DATA:1001 -> crpos:1 = Forester hunter
+Wed Mar 17 17:32:25 2021
+  #2178 cr DATA:1002 -> crpos:2 = Forester Maiden
+Wed Mar 17 17:32:25 2021
+  #2179 cr DATA:1003 -> crpos:3 = Forester Woman
+Wed Mar 17 17:32:25 2021
+  #2180 cr DATA:1004 -> crpos:4 = Forester Maiden
+Wed Mar 17 17:32:25 2021
+  #2181 cr DATA:1005 -> crpos:5 = Forester kid
+Wed Mar 17 17:32:25 2021
+  #2184 cr DATA:1006 -> crpos:6 = Forester adventurer
+Wed Mar 17 17:33:18 2021
+  creature_swap()
+Wed Mar 17 17:33:18 2021
+  curmap: BIGMAP isox,isoy: 1289,980 mintick: 47
+Wed Mar 17 17:33:18 2021
+  COMPANYZOOMCHECKED: 0
+Wed Mar 17 17:33:18 2021
+  parsing DATA
+Wed Mar 17 17:33:19 2021
+  creature_swap()
+Wed Mar 17 17:33:19 2021
+  curmap: BIGMAP isox,isoy: 1289,980 mintick: 47
+Wed Mar 17 17:33:19 2021
+  COMPANYZOOMCHECKED: 1
+Wed Mar 17 17:33:19 2021
+  parsing DATA
+Wed Mar 17 17:36:42 2021
+  creature_swap()
+Wed Mar 17 17:36:42 2021
+  curmap: ZOOMMAP isox,isoy: 1289,980 mintick: 116
+Wed Mar 17 17:36:42 2021
+  COMPANYZOOMCHECKED: 1
+Wed Mar 17 17:36:42 2021
+  parsing DATA
+Wed Mar 17 17:36:42 2021
+  #2029 cr DATA:1000 -> crpos:0 = Capercaillie
+Wed Mar 17 17:36:42 2021
+  #2229 cr DATA:1001 -> crpos:1 = Forester woodsman
+Wed Mar 17 17:36:42 2021
+  #2230 cr DATA:1002 -> crpos:2 = Forester hunter
+Wed Mar 17 17:36:42 2021
+  #2231 cr DATA:1003 -> crpos:3 = Forester Maiden
+Wed Mar 17 17:36:42 2021
+  #2232 cr DATA:1004 -> crpos:4 = Forester Woman
+Wed Mar 17 17:36:42 2021
+  #2233 cr DATA:1005 -> crpos:5 = Forester Maiden
+Wed Mar 17 17:36:42 2021
+  #2234 cr DATA:1006 -> crpos:6 = Forester kid
+Wed Mar 17 17:36:42 2021
+  #2237 cr DATA:1007 -> crpos:7 = Forester adventurer
+Wed Mar 17 17:36:42 2021
+  creature_swap()
+Wed Mar 17 17:36:42 2021
+  curmap: ZOOMMAP isox,isoy: 1289,980 mintick: 116
+Wed Mar 17 17:36:42 2021
+  COMPANYZOOMCHECKED: 1
+Wed Mar 17 17:36:42 2021
+  parsing DATA
+Wed Mar 17 17:36:42 2021
+  #2029 cr DATA:1000 -> crpos:0 = Capercaillie
+Wed Mar 17 17:36:42 2021
+  #2229 cr DATA:1001 -> crpos:1 = Forester woodsman
+Wed Mar 17 17:36:42 2021
+  #2230 cr DATA:1002 -> crpos:2 = Forester hunter
+Wed Mar 17 17:36:42 2021
+  #2231 cr DATA:1003 -> crpos:3 = Forester Maiden
+Wed Mar 17 17:36:42 2021
+  #2232 cr DATA:1004 -> crpos:4 = Forester Woman
+Wed Mar 17 17:36:42 2021
+  #2233 cr DATA:1005 -> crpos:5 = Forester Maiden
+Wed Mar 17 17:36:42 2021
+  #2234 cr DATA:1006 -> crpos:6 = Forester kid
+Wed Mar 17 17:36:42 2021
+  #2237 cr DATA:1007 -> crpos:7 = Forester adventurer
+Wed Mar 17 17:36:43 2021
+  creature_swap()
+Wed Mar 17 17:36:43 2021
+  curmap: BIGMAP isox,isoy: 1289,980 mintick: 118
+Wed Mar 17 17:36:43 2021
+  COMPANYZOOMCHECKED: 0
+Wed Mar 17 17:36:43 2021
+  parsing DATA
+Wed Mar 17 17:36:43 2021
+  creature_swap()
+Wed Mar 17 17:36:43 2021
+  curmap: BIGMAP isox,isoy: 1289,980 mintick: 118
+Wed Mar 17 17:36:43 2021
+  COMPANYZOOMCHECKED: 1
+Wed Mar 17 17:36:43 2021
+  parsing DATA
+Wed Mar 17 17:36:45 2021
+  creature_swap()
+Wed Mar 17 17:36:45 2021
+  curmap: ZOOMMAP isox,isoy: 1289,980 mintick: 118
+Wed Mar 17 17:36:45 2021
+  COMPANYZOOMCHECKED: 1
+Wed Mar 17 17:36:45 2021
+  parsing DATA
+Wed Mar 17 17:36:45 2021
+  #1163 cr DATA:1000 -> crpos:0 = Capercaillie
+Wed Mar 17 17:36:45 2021
+  #2279 cr DATA:1001 -> crpos:1 = Forester Woman
+Wed Mar 17 17:36:45 2021
+  #2282 cr DATA:1002 -> crpos:2 = Forester woodsman
+Wed Mar 17 17:36:45 2021
+  #2283 cr DATA:1003 -> crpos:3 = Forester hunter
+Wed Mar 17 17:36:45 2021
+  #2284 cr DATA:1004 -> crpos:4 = Forester Maiden
+Wed Mar 17 17:36:45 2021
+  #2285 cr DATA:1005 -> crpos:5 = Forester kid
+Wed Mar 17 17:36:45 2021
+  #2288 cr DATA:1006 -> crpos:6 = Forester adventurer
+Wed Mar 17 17:36:45 2021
+  #3142 cr DATA:1007 -> crpos:7 = Forester Maiden
+Wed Mar 17 17:36:45 2021
+  creature_swap()
+Wed Mar 17 17:36:45 2021
+  curmap: ZOOMMAP isox,isoy: 1289,980 mintick: 118
+Wed Mar 17 17:36:45 2021
+  COMPANYZOOMCHECKED: 1
+Wed Mar 17 17:36:45 2021
+  parsing DATA
+Wed Mar 17 17:36:45 2021
+  #1163 cr DATA:1000 -> crpos:0 = Capercaillie
+Wed Mar 17 17:36:45 2021
+  #2279 cr DATA:1001 -> crpos:1 = Forester Woman
+Wed Mar 17 17:36:45 2021
+  #2282 cr DATA:1002 -> crpos:2 = Forester woodsman
+Wed Mar 17 17:36:45 2021
+  #2283 cr DATA:1003 -> crpos:3 = Forester hunter
+Wed Mar 17 17:36:45 2021
+  #2284 cr DATA:1004 -> crpos:4 = Forester Maiden
+Wed Mar 17 17:36:45 2021
+  #2285 cr DATA:1005 -> crpos:5 = Forester kid
+Wed Mar 17 17:36:45 2021
+  #2288 cr DATA:1006 -> crpos:6 = Forester adventurer
+Wed Mar 17 17:36:45 2021
+  #3142 cr DATA:1007 -> crpos:7 = Forester Maiden
+Wed Mar 17 17:36:50 2021
+  creature_swap()
+Wed Mar 17 17:36:50 2021
+  curmap: BIGMAP isox,isoy: 1285,983 mintick: 130
+Wed Mar 17 17:36:50 2021
+  COMPANYZOOMCHECKED: 1
+Wed Mar 17 17:36:50 2021
+  parsing DATA
+Wed Mar 17 17:41:53 2021
+  creature_swap()
+Wed Mar 17 17:41:53 2021
+  curmap: ZOOMMAP isox,isoy: 1285,983 mintick: 164
+Wed Mar 17 17:41:53 2021
+  COMPANYZOOMCHECKED: 1
+Wed Mar 17 17:41:53 2021
+  parsing DATA
+Wed Mar 17 17:41:53 2021
+  #2100 cr DATA:1000 -> crpos:0 = Tufted duck
+Wed Mar 17 17:41:53 2021
+  #2101 cr DATA:1001 -> crpos:1 = Tufted duck
+Wed Mar 17 17:41:53 2021
+  #2102 cr DATA:1002 -> crpos:2 = Willow grouse
+Wed Mar 17 17:41:53 2021
+  #2103 cr DATA:1003 -> crpos:3 = Willow grouse
+Wed Mar 17 17:41:53 2021
+  #2104 cr DATA:1004 -> crpos:4 = Goldeneye
+Wed Mar 17 17:41:53 2021
+  #2105 cr DATA:1005 -> crpos:5 = Goldeneye
+Wed Mar 17 17:41:53 2021
+  #2106 cr DATA:1006 -> crpos:6 = Goldeneye
+Wed Mar 17 17:41:53 2021
+  #2107 cr DATA:1007 -> crpos:7 = Goldeneye
+Wed Mar 17 17:41:53 2021
+  #2108 cr DATA:1008 -> crpos:8 = Goldeneye
+Wed Mar 17 17:41:53 2021
+  #2109 cr DATA:1009 -> crpos:9 = elk
+Wed Mar 17 17:41:54 2021
+  creature_swap()
+Wed Mar 17 17:41:54 2021
+  curmap: ZOOMMAP isox,isoy: 1285,983 mintick: 164
+Wed Mar 17 17:41:54 2021
+  COMPANYZOOMCHECKED: 1
+Wed Mar 17 17:41:54 2021
+  parsing DATA
+Wed Mar 17 17:41:54 2021
+  #2100 cr DATA:1000 -> crpos:0 = Tufted duck
+Wed Mar 17 17:41:54 2021
+  #2101 cr DATA:1001 -> crpos:1 = Tufted duck
+Wed Mar 17 17:41:54 2021
+  #2102 cr DATA:1002 -> crpos:2 = Willow grouse
+Wed Mar 17 17:41:54 2021
+  #2103 cr DATA:1003 -> crpos:3 = Willow grouse
+Wed Mar 17 17:41:54 2021
+  #2104 cr DATA:1004 -> crpos:4 = Goldeneye
+Wed Mar 17 17:41:54 2021
+  #2105 cr DATA:1005 -> crpos:5 = Goldeneye
+Wed Mar 17 17:41:54 2021
+  #2106 cr DATA:1006 -> crpos:6 = Goldeneye
+Wed Mar 17 17:41:54 2021
+  #2107 cr DATA:1007 -> crpos:7 = Goldeneye
+Wed Mar 17 17:41:54 2021
+  #2108 cr DATA:1008 -> crpos:8 = Goldeneye
+Wed Mar 17 17:41:54 2021
+  #2109 cr DATA:1009 -> crpos:9 = elk
+Wed Mar 17 17:41:55 2021
+  creature_swap()
+Wed Mar 17 17:41:55 2021
+  curmap: BIGMAP isox,isoy: 1285,983 mintick: 164
+Wed Mar 17 17:41:55 2021
+  COMPANYZOOMCHECKED: 1
+Wed Mar 17 17:41:55 2021
+  parsing DATA
+Wed Mar 17 17:43:44 2021
+  creature_swap()
+Wed Mar 17 17:43:44 2021
+  curmap: ZOOMMAP isox,isoy: 1285,983 mintick: 165
+Wed Mar 17 17:43:44 2021
+  COMPANYZOOMCHECKED: 1
+Wed Mar 17 17:43:44 2021
+  parsing DATA
+Wed Mar 17 17:43:44 2021
+  #202 cr DATA:1000 -> crpos:0 = elk
+Wed Mar 17 17:43:44 2021
+  #736 cr DATA:1001 -> crpos:1 = Willow grouse
+Wed Mar 17 17:43:44 2021
+  #1373 cr DATA:1002 -> crpos:2 = Willow grouse
+Wed Mar 17 17:43:44 2021
+  #1827 cr DATA:1003 -> crpos:3 = Goldeneye
+Wed Mar 17 17:43:44 2021
+  #2181 cr DATA:1004 -> crpos:4 = Goldeneye
+Wed Mar 17 17:43:44 2021
+  #2253 cr DATA:1005 -> crpos:5 = Goldeneye
+Wed Mar 17 17:43:44 2021
+  #2254 cr DATA:1006 -> crpos:6 = Tufted duck
+Wed Mar 17 17:43:44 2021
+  #2255 cr DATA:1007 -> crpos:7 = Goldeneye
+Wed Mar 17 17:43:44 2021
+  #2256 cr DATA:1008 -> crpos:8 = Goldeneye
+Wed Mar 17 17:43:44 2021
+  #2264 cr DATA:1009 -> crpos:9 = Tufted duck
+Wed Mar 17 17:43:44 2021
+  creature_swap()
+Wed Mar 17 17:43:44 2021
+  curmap: ZOOMMAP isox,isoy: 1285,983 mintick: 165
+Wed Mar 17 17:43:44 2021
+  COMPANYZOOMCHECKED: 1
+Wed Mar 17 17:43:44 2021
+  parsing DATA
+Wed Mar 17 17:43:44 2021
+  #202 cr DATA:1000 -> crpos:0 = elk
+Wed Mar 17 17:43:44 2021
+  #736 cr DATA:1001 -> crpos:1 = Willow grouse
+Wed Mar 17 17:43:44 2021
+  #1373 cr DATA:1002 -> crpos:2 = Willow grouse
+Wed Mar 17 17:43:44 2021
+  #1827 cr DATA:1003 -> crpos:3 = Goldeneye
+Wed Mar 17 17:43:44 2021
+  #2181 cr DATA:1004 -> crpos:4 = Goldeneye
+Wed Mar 17 17:43:44 2021
+  #2253 cr DATA:1005 -> crpos:5 = Goldeneye
+Wed Mar 17 17:43:44 2021
+  #2254 cr DATA:1006 -> crpos:6 = Tufted duck
+Wed Mar 17 17:43:44 2021
+  #2255 cr DATA:1007 -> crpos:7 = Goldeneye
+Wed Mar 17 17:43:44 2021
+  #2256 cr DATA:1008 -> crpos:8 = Goldeneye
+Wed Mar 17 17:43:44 2021
+  #2264 cr DATA:1009 -> crpos:9 = Tufted duck
+Wed Mar 17 17:43:45 2021
+  creature_swap()
+Wed Mar 17 17:43:45 2021
+  curmap: BIGMAP isox,isoy: 1285,983 mintick: 165
+Wed Mar 17 17:43:45 2021
+  COMPANYZOOMCHECKED: 1
+Wed Mar 17 17:43:45 2021
+  parsing DATA
+Wed Mar 17 17:43:57 2021
+  creature_swap()
+Wed Mar 17 17:43:57 2021
+  curmap: ZOOMMAP isox,isoy: 1285,983 mintick: 166
+Wed Mar 17 17:43:57 2021
+  COMPANYZOOMCHECKED: 1
+Wed Mar 17 17:43:57 2021
+  parsing DATA
+Wed Mar 17 17:43:57 2021
+  #202 cr DATA:1000 -> crpos:0 = elk
+Wed Mar 17 17:43:57 2021
+  #813 cr DATA:1001 -> crpos:1 = Willow grouse
+Wed Mar 17 17:43:57 2021
+  #1450 cr DATA:1002 -> crpos:2 = Willow grouse
+Wed Mar 17 17:43:57 2021
+  #2260 cr DATA:1003 -> crpos:3 = Goldeneye
+Wed Mar 17 17:43:57 2021
+  #2332 cr DATA:1004 -> crpos:4 = Goldeneye
+Wed Mar 17 17:43:57 2021
+  #2333 cr DATA:1005 -> crpos:5 = Goldeneye
+Wed Mar 17 17:43:57 2021
+  #2334 cr DATA:1006 -> crpos:6 = Tufted duck
+Wed Mar 17 17:43:57 2021
+  #2335 cr DATA:1007 -> crpos:7 = Goldeneye
+Wed Mar 17 17:43:57 2021
+  #2336 cr DATA:1008 -> crpos:8 = Tufted duck
+Wed Mar 17 17:43:57 2021
+  #2337 cr DATA:1009 -> crpos:9 = Goldeneye
+Wed Mar 17 17:43:57 2021
+  creature_swap()
+Wed Mar 17 17:43:57 2021
+  curmap: ZOOMMAP isox,isoy: 1285,983 mintick: 166
+Wed Mar 17 17:43:57 2021
+  COMPANYZOOMCHECKED: 1
+Wed Mar 17 17:43:57 2021
+  parsing DATA
+Wed Mar 17 17:43:57 2021
+  #202 cr DATA:1000 -> crpos:0 = elk
+Wed Mar 17 17:43:57 2021
+  #813 cr DATA:1001 -> crpos:1 = Willow grouse
+Wed Mar 17 17:43:57 2021
+  #1450 cr DATA:1002 -> crpos:2 = Willow grouse
+Wed Mar 17 17:43:57 2021
+  #2260 cr DATA:1003 -> crpos:3 = Goldeneye
+Wed Mar 17 17:43:57 2021
+  #2332 cr DATA:1004 -> crpos:4 = Goldeneye
+Wed Mar 17 17:43:57 2021
+  #2333 cr DATA:1005 -> crpos:5 = Goldeneye
+Wed Mar 17 17:43:57 2021
+  #2334 cr DATA:1006 -> crpos:6 = Tufted duck
+Wed Mar 17 17:43:57 2021
+  #2335 cr DATA:1007 -> crpos:7 = Goldeneye
+Wed Mar 17 17:43:57 2021
+  #2336 cr DATA:1008 -> crpos:8 = Tufted duck
+Wed Mar 17 17:43:57 2021
+  #2337 cr DATA:1009 -> crpos:9 = Goldeneye
+Wed Mar 17 17:43:58 2021
+  creature_swap()
+Wed Mar 17 17:43:58 2021
+  curmap: BIGMAP isox,isoy: 1285,983 mintick: 166
+Wed Mar 17 17:43:58 2021
+  COMPANYZOOMCHECKED: 1
+Wed Mar 17 17:43:58 2021
+  parsing DATA
+Wed Mar 17 17:45:51 2021
+  creature_swap()
+Wed Mar 17 17:45:51 2021
+  curmap: ZOOMMAP isox,isoy: 1285,983 mintick: 170
+Wed Mar 17 17:45:51 2021
+  COMPANYZOOMCHECKED: 0
+Wed Mar 17 17:45:51 2021
+  parsing DATA
+Wed Mar 17 17:45:51 2021
+  #888 cr DATA:1000 -> crpos:0 = Willow grouse
+Wed Mar 17 17:45:51 2021
+  #1402 cr DATA:1001 -> crpos:1 = Willow grouse
+Wed Mar 17 17:45:51 2021
+  #1403 cr DATA:1002 -> crpos:2 = elk
+Wed Mar 17 17:45:51 2021
+  #2352 cr DATA:1003 -> crpos:3 = Goldeneye
+Wed Mar 17 17:45:51 2021
+  #2424 cr DATA:1004 -> crpos:4 = Goldeneye
+Wed Mar 17 17:45:51 2021
+  #2425 cr DATA:1005 -> crpos:5 = Goldeneye
+Wed Mar 17 17:45:51 2021
+  #2426 cr DATA:1006 -> crpos:6 = Tufted duck
+Wed Mar 17 17:45:51 2021
+  #2427 cr DATA:1007 -> crpos:7 = Goldeneye
+Wed Mar 17 17:45:51 2021
+  #2428 cr DATA:1008 -> crpos:8 = Goldeneye
+Wed Mar 17 17:45:51 2021
+  #2429 cr DATA:1009 -> crpos:9 = Tufted duck
+Wed Mar 17 17:45:51 2021
+  creature_swap()
+Wed Mar 17 17:45:51 2021
+  curmap: BIGMAP isox,isoy: 1283,983 mintick: 170
+Wed Mar 17 17:45:51 2021
+  COMPANYZOOMCHECKED: 0
+Wed Mar 17 17:45:51 2021
+  parsing DATA
+Wed Mar 17 18:04:01 2021
+  creature_swap()
+Wed Mar 17 18:04:01 2021
+  curmap: ZOOMMAP isox,isoy: 1283,983 mintick: 1037
+Wed Mar 17 18:04:01 2021
+  COMPANYZOOMCHECKED: 1
+Wed Mar 17 18:04:01 2021
+  parsing DATA
+Wed Mar 17 18:04:01 2021
+  #1302 cr DATA:1000 -> crpos:0 = elk
+Wed Mar 17 18:04:01 2021
+  #2035 cr DATA:1001 -> crpos:1 = Willow grouse
+Wed Mar 17 18:04:01 2021
+  #2405 cr DATA:1002 -> crpos:2 = Goldeneye
+Wed Mar 17 18:04:01 2021
+  #2603 cr DATA:1003 -> crpos:3 = Goldeneye
+Wed Mar 17 18:04:01 2021
+  #3252 cr DATA:1004 -> crpos:4 = Goldeneye
+Wed Mar 17 18:04:01 2021
+  #3253 cr DATA:1005 -> crpos:5 = Tufted duck
+Wed Mar 17 18:04:01 2021
+  #3254 cr DATA:1006 -> crpos:6 = Kuikka
+Wed Mar 17 18:04:01 2021
+  #3255 cr DATA:1007 -> crpos:7 = Kuikka
+Wed Mar 17 18:04:01 2021
+  #3256 cr DATA:1008 -> crpos:8 = Kuikka
+Wed Mar 17 18:04:02 2021
+  creature_swap()
+Wed Mar 17 18:04:02 2021
+  curmap: ZOOMMAP isox,isoy: 1283,983 mintick: 1037
+Wed Mar 17 18:04:02 2021
+  COMPANYZOOMCHECKED: 1
+Wed Mar 17 18:04:02 2021
+  parsing DATA
+Wed Mar 17 18:04:02 2021
+  #1302 cr DATA:1000 -> crpos:0 = elk
+Wed Mar 17 18:04:02 2021
+  #2035 cr DATA:1001 -> crpos:1 = Willow grouse
+Wed Mar 17 18:04:02 2021
+  #2405 cr DATA:1002 -> crpos:2 = Goldeneye
+Wed Mar 17 18:04:02 2021
+  #2603 cr DATA:1003 -> crpos:3 = Goldeneye
+Wed Mar 17 18:04:02 2021
+  #3252 cr DATA:1004 -> crpos:4 = Goldeneye
+Wed Mar 17 18:04:02 2021
+  #3253 cr DATA:1005 -> crpos:5 = Tufted duck
+Wed Mar 17 18:04:02 2021
+  #3254 cr DATA:1006 -> crpos:6 = Kuikka
+Wed Mar 17 18:04:02 2021
+  #3255 cr DATA:1007 -> crpos:7 = Kuikka
+Wed Mar 17 18:04:02 2021
+  #3256 cr DATA:1008 -> crpos:8 = Kuikka
+Wed Mar 17 18:04:03 2021
+  creature_swap()
+Wed Mar 17 18:04:03 2021
+  curmap: BIGMAP isox,isoy: 1283,982 mintick: 1037
+Wed Mar 17 18:04:03 2021
+  COMPANYZOOMCHECKED: 1
+Wed Mar 17 18:04:03 2021
+  parsing DATA

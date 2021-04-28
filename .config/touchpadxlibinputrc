@@ -1,0 +1,6 @@
+[ELAN0501:01 04F3:3060 Touchpad]
+disableWhileTyping=false
+naturalScroll=true
+
+[SynPS/2 Synaptics TouchPad]
+tapToClick=true

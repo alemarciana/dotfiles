@@ -1,0 +1,724 @@
+Looking for git in: git
+Using git 2.29.2 from git
+> git rev-parse --git-dir
+Open repository: /home/alessandra/git-sources/xgammer
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/login/login.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/login/login.component.ts
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :src/app/cuenta/cuenta.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/cuenta/cuenta.component.html
+> git show --textconv :src/app/login/login.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/login/login.component.ts
+> git show --textconv :src/app/login/login.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/login/login.component.html
+> git show --textconv :src/app/login/login.component.scss
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/login/login.component.scss
+> git show --textconv :src/app/login/login.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/login/login.component.ts
+> git check-ignore -v -z --stdin
+> git show --textconv :src/app/service/juego.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/service/juego.service.ts
+> git check-ignore -v -z --stdin
+> git show --textconv :src/app/dto/LoginO.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/dto/LoginO.ts
+> git show --textconv :src/app/service/juego.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/service/juego.service.ts
+> git show --textconv :src/app/cuenta/cuenta.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/cuenta/cuenta.component.ts
+> git show --textconv :src/app/login/login.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/login/login.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :src/app/service/juego.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/service/juego.service.ts
+> git show --textconv :src/app/login/login.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/login/login.component.ts
+> git show --textconv :src/app/service/juego.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/service/juego.service.ts
+> git show --textconv :src/app/login/login.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/login/login.component.ts
+> git check-ignore -v -z --stdin
+> git show --textconv :src/app/dto/LoginO.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/dto/LoginO.ts
+> git show --textconv :src/app/login/login.component.spec.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/login/login.component.spec.ts
+> git show --textconv :src/app/login/login.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/login/login.component.ts
+> git show --textconv :src/app/service/juego.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/service/juego.service.ts
+> git show --textconv :src/app/dto/LoginO.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/dto/LoginO.ts
+> git show --textconv :src/app/service/juego.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/service/juego.service.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/login/login.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/login/login.component.ts
+> git show --textconv :src/app/service/juego.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/service/juego.service.ts
+> git show --textconv :src/app/login/login.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/login/login.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/app-routing.module.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/app-routing.module.ts
+> git cat-file -s d425c6f56b578db1e8d7f8fa2d6c90693ba5d4fb
+> git show --textconv :src/app/login/login.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/login/login.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/service/juego.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/service/juego.service.ts
+> git show --textconv :src/app/login/login.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/login/login.component.ts
+> git check-ignore -v -z --stdin
+> git show --textconv :src/app/v-usuario/v-usuario.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/v-usuario/v-usuario.component.ts
+> git check-ignore -v -z --stdin
+> git show --textconv :src/app/login/login.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/login/login.component.ts
+> git show --textconv :src/app/service/juego.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/service/juego.service.ts
+> git show --textconv :src/app/dto/LoginO.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/dto/LoginO.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/service/juego.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/service/juego.service.ts
+> git show --textconv :src/app/dto/LoginO.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/dto/LoginO.ts
+> git show --textconv :src/app/service/juego.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/service/juego.service.ts
+> git show --textconv :src/app/dto/LoginO.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/dto/LoginO.ts
+> git show --textconv :src/app/service/juego.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/service/juego.service.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/dto/LoginO.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/dto/LoginO.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/service/juego.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/service/juego.service.ts
+> git show --textconv :src/app/dto/LoginO.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/dto/LoginO.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/service/juego.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/service/juego.service.ts
+> git show --textconv :src/app/login/login.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/login/login.component.ts
+> git show --textconv :src/app/service/juego.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/service/juego.service.ts
+> git show --textconv :src/app/login/login.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/login/login.component.ts
+> git show --textconv :src/app/service/juego.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/service/juego.service.ts
+> git show --textconv :src/app/login/login.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/login/login.component.ts
+> git show --textconv :src/app/service/juego.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/service/juego.service.ts
+> git show --textconv :src/app/login/login.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/login/login.component.ts
+> git show --textconv :src/app/inicio/inicio.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/inicio/inicio.component.html
+> git show --textconv :src/app/app-routing.module.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/app-routing.module.ts
+> git cat-file -s d425c6f56b578db1e8d7f8fa2d6c90693ba5d4fb
+> git show --textconv :src/app/login/login.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/login/login.component.ts
+> git show --textconv :src/app/login/login.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/login/login.component.html
+> git show --textconv :src/app/login/login.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/login/login.component.ts
+> git show --textconv :src/app/login/login.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/login/login.component.html
+> git show --textconv :src/app/inicio/inicio.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/inicio/inicio.component.ts
+> git show --textconv :src/app/inicio/inicio.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/inicio/inicio.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/app.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/app.component.html
+> git cat-file -s e48d8c109d668d9b5c5f25e0c2831bbe48d3cc1d
+> git show --textconv :src/app/app-routing.module.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/app-routing.module.ts
+> git cat-file -s d425c6f56b578db1e8d7f8fa2d6c90693ba5d4fb
+> git show --textconv :src/app/login/login.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/login/login.component.html
+> git show --textconv :src/app/inicio/inicio.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/inicio/inicio.component.ts
+> git show --textconv :src/app/inicio/inicio.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/inicio/inicio.component.html
+> git show --textconv :src/app/inicio/inicio.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/inicio/inicio.component.ts
+> git show --textconv :src/app/app.module.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/app.module.ts
+> git cat-file -s 2c3ba2995c8510c02ca812f90280146738f162cf
+> git show --textconv :src/app/service/juego.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/service/juego.service.ts
+> git show --textconv :src/app/inicio/inicio.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/inicio/inicio.component.ts
+> git show --textconv :src/app/inicio/inicio.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/inicio/inicio.component.html
+> git show --textconv :src/app/app.module.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/app.module.ts
+> git cat-file -s 2c3ba2995c8510c02ca812f90280146738f162cf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/inicio/inicio.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/inicio/inicio.component.html
+> git show --textconv :src/app/app.module.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/app.module.ts
+> git cat-file -s 2c3ba2995c8510c02ca812f90280146738f162cf
+> git show --textconv :src/app/app-routing.module.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/app-routing.module.ts
+> git cat-file -s d425c6f56b578db1e8d7f8fa2d6c90693ba5d4fb
+> git show --textconv :src/app/inicio/inicio.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/inicio/inicio.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/app.module.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/app.module.ts
+> git cat-file -s 2c3ba2995c8510c02ca812f90280146738f162cf
+> git show --textconv :src/app/inicio/inicio.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/inicio/inicio.component.html
+> git check-ignore -v -z --stdin
+> git show --textconv :src/app/registro/registro.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/registro/registro.component.ts
+> git show --textconv :src/app/login/login.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/login/login.component.html
+> git show --textconv :src/app/login/login.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/login/login.component.ts
+> git show --textconv :src/app/login/login.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/login/login.component.html
+> git show --textconv :src/app/app-routing.module.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/app-routing.module.ts
+> git cat-file -s d425c6f56b578db1e8d7f8fa2d6c90693ba5d4fb
+> git show --textconv :src/app/inicio/inicio.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/inicio/inicio.component.html
+> git show --textconv :src/app/inicio/inicio.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/inicio/inicio.component.ts
+> git show --textconv :src/app/login/login.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/login/login.component.ts
+> git show --textconv :src/app/registro/registro.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/registro/registro.component.ts
+> git show --textconv :src/app/inicio/inicio.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/inicio/inicio.component.ts
+> git show --textconv :src/app/app.module.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/app.module.ts
+> git cat-file -s 2c3ba2995c8510c02ca812f90280146738f162cf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/login/login.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/login/login.component.html
+> git show --textconv :src/app/login/login.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/login/login.component.ts
+> git show --textconv :src/app/login/login.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/login/login.component.html
+> git show --textconv :src/app/dto/LoginO.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/dto/LoginO.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/login/login.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/login/login.component.ts
+> git show --textconv :src/app/login/login.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/login/login.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/login/login.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/login/login.component.ts
+> git show --textconv :src/app/app.module.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/app.module.ts
+> git cat-file -s 2c3ba2995c8510c02ca812f90280146738f162cf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/login/login.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/login/login.component.ts
+> git show --textconv :src/app/login/login.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/login/login.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/login/login.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/login/login.component.ts
+> git show --textconv :src/app/service/juego.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/service/juego.service.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/login/login.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/login/login.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/inicio/inicio.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/inicio/inicio.component.html
+> git show --textconv :src/app/inicio/inicio.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/inicio/inicio.component.ts
+> git show --textconv :src/app/service/juego.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/service/juego.service.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/inicio/inicio.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/inicio/inicio.component.html
+> git show --textconv :src/app/login/login.component.spec.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/login/login.component.spec.ts
+> git show --textconv :src/app/login/login.component.scss
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/login/login.component.scss
+> git show --textconv :src/app/inicio/inicio.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/inicio/inicio.component.html
+> git show --textconv :src/app/login/login.component.scss
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/login/login.component.scss
+> git show --textconv :src/app/inicio/inicio.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/inicio/inicio.component.html
+> git show --textconv :src/app/login/login.component.scss
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/login/login.component.scss
+> git show --textconv :src/app/inicio/inicio.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/inicio/inicio.component.html
+> git show --textconv :src/app/inicio/inicio.component.scss
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/inicio/inicio.component.scss
+> git show --textconv :src/app/inicio/inicio.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/inicio/inicio.component.html
+> git show --textconv :src/app/inicio/inicio.component.scss
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/inicio/inicio.component.scss
+> git show --textconv :src/app/inicio/inicio.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/inicio/inicio.component.html
+> git show --textconv :src/app/inicio/inicio.component.scss
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/inicio/inicio.component.scss
+> git show --textconv :src/app/inicio/inicio.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/inicio/inicio.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/inicio/inicio.component.scss
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/inicio/inicio.component.scss
+> git show --textconv :src/app/inicio/inicio.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/inicio/inicio.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/inicio/inicio.component.scss
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/inicio/inicio.component.scss
+> git show --textconv :src/app/inicio/inicio.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/inicio/inicio.component.html
+> git show --textconv :src/app/inicio/inicio.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/inicio/inicio.component.ts
+> git show --textconv :src/app/service/juego.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/service/juego.service.ts
+> git show --textconv :src/app/app.module.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/app.module.ts
+> git cat-file -s 2c3ba2995c8510c02ca812f90280146738f162cf
+> git show --textconv :src/app/inicio/inicio.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/inicio/inicio.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/login/login.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/login/login.component.html
+> git show --textconv :src/app/inicio/inicio.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/inicio/inicio.component.html
+> git show --textconv :src/app/dto/Juego.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/dto/Juego.ts
+> git show --textconv :src/app/login/login.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/login/login.component.ts
+> git show --textconv :src/app/inicio/inicio.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/inicio/inicio.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/login/login.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/login/login.component.ts
+> git show --textconv :src/app/inicio/inicio.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/inicio/inicio.component.ts
+> git show --textconv :src/app/dto/Juego.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/dto/Juego.ts
+> git show --textconv :src/app/service/juego.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/service/juego.service.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/inicio/inicio.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/inicio/inicio.component.ts
+> git show --textconv :src/app/inicio/inicio.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/inicio/inicio.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/login/login.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/login/login.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/v-usuario/v-usuario.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/v-usuario/v-usuario.component.ts
+> git show --textconv :src/app/login/login.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/login/login.component.ts
+> git show --textconv :src/app/v-usuario/v-usuario.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/v-usuario/v-usuario.component.ts
+> git show --textconv :src/app/service/juego.service.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/service/juego.service.ts
+> git show --textconv :src/app/inicio/inicio.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/inicio/inicio.component.ts
+> git show --textconv :src/app/inicio/inicio.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/inicio/inicio.component.html
+> git show --textconv :src/app/app.module.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/app.module.ts
+> git cat-file -s 2c3ba2995c8510c02ca812f90280146738f162cf
+> git show --textconv :src/app/inicio/inicio.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/inicio/inicio.component.html
+> git show --textconv :src/app/inicio/inicio.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/inicio/inicio.component.ts
+> git show --textconv :src/app/v-usuario/v-usuario.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/v-usuario/v-usuario.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/login/login.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/login/login.component.ts
+> git show --textconv :src/app/v-usuario/v-usuario.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/v-usuario/v-usuario.component.ts
+> git show --textconv :src/app/login/login.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/login/login.component.ts
+> git show --textconv :src/app/v-usuario/v-usuario.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/v-usuario/v-usuario.component.ts
+> git show --textconv :src/app/login/login.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/login/login.component.ts
+> git show --textconv :src/app/v-usuario/v-usuario.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/v-usuario/v-usuario.component.ts
+> git show --textconv :src/app/login/login.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/login/login.component.ts
+> git show --textconv :src/app/v-usuario/v-usuario.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/v-usuario/v-usuario.component.ts
+> git show --textconv :src/app/login/login.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/login/login.component.ts
+> git show --textconv :src/app/v-usuario/v-usuario.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/v-usuario/v-usuario.component.ts
+> git show --textconv :src/app/login/login.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/login/login.component.ts
+> git show --textconv :src/app/v-usuario/v-usuario.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/v-usuario/v-usuario.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/login/login.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/login/login.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/login/login.component.scss
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/login/login.component.scss
+> git show --textconv :src/app/login/login.component.html
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/login/login.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/v-usuario/v-usuario.component.ts
+> git ls-files --stage -- /home/alessandra/git-sources/xgammer/src/app/v-usuario/v-usuario.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template

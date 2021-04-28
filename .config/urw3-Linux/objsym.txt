@@ -1,0 +1,322 @@
+OK! bronze bear pendant -> vl-bpend
+OK! blueberries -> ber-blue
+OK! Blueberry shrub -> ber-blue
+OK! lingonberries -> ber-lingon
+OK! Lingonberry shrub -> ber-lingon
+OK! cranberries -> ber-cran
+OK! Cranberry shrub -> ber-cran
+OK! northern bilberries -> ber-bil
+OK! Northern bilberry shrub -> ber-bil
+OK! cloudberries -> ber-cloud
+OK! Wooden tub -> it-wdtub
+OK! bronze bear pendant -> vl-bpend
+OK! bronze bracelet -> vl-bbrace
+OK! bronze ball pendant -> vl-bpend
+OK! bronze brooch -> vl-bbrooch
+OK! small bronze brooch -> vl-bbroochs
+OK! Cloudberry bramble -> ber-cloud
+OK! bronze horse-ornamented comb -> vl-bcomb
+OK! bronze flower-ornamented comb -> vl-bcomb
+OK! strawberries -> ber-straw
+OK! silver ring -> vl-sring
+OK! bronze bezel ring -> vl-bbring
+OK! Strawberry shrub -> ber-straw
+OK! Wooden mug -> it-wdmug
+OK! Wooden mug -> it-wdmug
+OK! Wooden cup -> it-wdcup
+OK! Wooden bowl -> it-wdbowl
+OK! Birch-bark box -> it-bbbox
+OK! Birch-bark basket -> it-bbbask
+OK! crowberries -> ber-crow
+OK! Egg -> it-egg
+OK! Crowberry shrub -> ber-crow
+OK! raspberries -> ber-rasp
+OK! Raspberry bush -> ber-rasp
+OK! black currants -> ber-blkcur
+OK! Black currant bush -> ber-blkcur
+OK! Turnip seeds -> flo-turnip
+OK! Turnip -> flo-turnip
+OK! Turnip -> flo-turnip
+OK! peas -> flo-pea
+OK! Pea -> flo-pea
+OK! Rye bread -> it-bread
+OK! broad beans -> flo-brdbean
+OK! Broad bean -> flo-brdbean
+OK! Barley grains -> flo-barley
+OK! Barley -> flo-barley
+OK! Bag -> it-bag
+OK! Flat rye bread -> it-flbread
+OK! barley-flour -> flo-barley
+OK! Rye grains -> flo-rye
+OK! Rye -> flo-rye
+OK! rye-flour -> flo-rye
+OK! Hemp seeds -> flo-hemp
+OK! Hemp leaves -> flo-hemp
+OK! Hemp -> flo-hemp
+OK! Nettle seeds -> flo-nettle
+OK! Nettle leaves -> flo-nettle
+OK! Nettle -> flo-nettle
+OK! Yarrow seeds -> flo-yarrow
+OK! Yarrow leaves -> flo-yarrow
+OK! Yarrow flowers -> flo-yarrow
+OK! Yarrow -> flo-yarrow
+OK! Sorrel seeds -> flo-sorrel
+OK! Sorrel leaves -> flo-sorrel
+OK! Sorrel -> flo-sorrel
+OK! Meadsweet leaves -> flo-meadsw
+OK! Meadsweet flowers -> flo-meadsw
+OK! Meadsweet -> flo-meadsw
+OK! Golden rod leaves -> flo-grod
+OK! Golden rod flowers -> flo-grod
+OK! Golden rod -> flo-grod
+OK! Heather flowers -> flo-heather
+OK! Birch-bark rope -> it-rope
+OK! Rope -> it-rope
+OK! Cord -> it-cord
+OK! Leather rope -> it-rope
+OK! Heather -> flo-heather
+OK! Black ear mushroom -> shr-blkear
+OK! Black ear mushroom -> shr-blkear
+OK! Sand mushroom -> shr-sand
+OK! Sand mushroom -> shr-sand
+OK! Sauna scoop -> it-scoop
+OK! Noaidi's mushroom -> shr-noaidis
+OK! silver chain bracelet -> vl-scbrace
+OK! silver bird bracelet -> vl-sbrace
+OK! silver sun-symbol pendant -> vl-spensun
+OK! Noaidi's mushroom -> shr-noaidis
+OK! Yellowcoat mushroom -> shr-ycoat
+OK! Yellowcoat mushroom -> shr-ycoat
+OK! Browncoat mushroom -> shr-bcoat
+OK! Browncoat mushroom -> shr-bcoat
+OK! Bearpaw mushroom -> shr-bearpaw
+OK! Bearpaw mushroom -> shr-bearpaw
+OK! Hairy mushroom -> shr-hairy
+OK! Torch -> it-torch
+OK! Hairy mushroom -> shr-hairy
+   *** MISSING ****   Salt  -- uses SYMBOL -> 0
+OK! Pot -> it-pot
+OK! Shovel -> it-shovel
+OK! Wooden shovel -> it-wdshovel
+OK! Skis -> it-skis
+OK! Ski stick -> it-skistick
+OK! Redlegger mushroom -> shr-rlegger
+OK! Redlegger mushroom -> shr-rlegger
+OK! Yellow fingers mushroom -> shr-yfingers
+OK! Yellow fingers mushroom -> shr-yfingers
+OK! Tellervo's gift mushroom -> shr-gift
+OK! Tellervo's gift mushroom -> shr-gift
+OK! Ukko's mushroom -> shr-ukkos
+OK! Ukko's mushroom -> shr-ukkos
+OK! Soft mushroom -> shr-soft
+OK! Soft mushroom -> shr-soft
+OK! Ringed mushroom -> shr-ringed
+OK! Ringed mushroom -> shr-ringed
+OK! Mother pipe root -> flo-mpipe
+OK! Mother pipe leaves -> flo-mpipe
+OK! Mother pipe flowers -> flo-mpipe
+OK! Mother pipe -> flo-mpipe
+OK! Bear pipe root -> flo-bearpipe
+OK! Bandage -> it-bandage
+OK! Linen undershirt -> ar-lngshirt
+OK! Woollen undershirt -> ar-lngwoshi
+OK! Linen undergarment -> ar-ungarm
+OK! Woollen undergarment -> ar-woungarm
+OK! Linen shirt -> ar-shoshirt
+OK! Nettle shirt -> ar-shoshirt
+OK! Woollen shirt -> ar-woshirt
+OK! Linen tunic -> ar-tunic
+OK! Nettle tunic -> ar-tunic
+OK! Woollen tunic -> ar-wotunic
+OK! Woollen overcoat -> ar-wlnocoat
+OK! Woollen dress -> ar-wodress
+OK! Linen dress -> ar-dress
+OK! Linen trousers -> ar-trousers
+OK! Nettle trousers -> ar-trousers
+OK! Woollen trousers -> ar-wotrous
+OK! Woollen leggings -> ar-woollegg
+OK! Nettle apron -> ar-apron
+OK! Linen apron -> ar-apron
+OK! Woollen apron -> ar-woapron
+OK! Linen footrags -> ar-footrags
+OK! Woollen socks -> ar-woolsock
+OK! Woollen footrags -> ar-footrags
+OK! Linen veil -> ar-veil
+OK! Woollen veil -> ar-woolveil
+OK! Linen cowl -> ar-cowl
+OK! Woollen cowl -> ar-cowl
+OK! Nettle cowl -> ar-cowl
+OK! Nettle cloak -> ar-cloak
+OK! Woollen cloak -> ar-wocloak
+OK! Woollen mittens -> ar-woolmit
+OK! Leather cap -> ar-cap
+OK! Leather belt -> ar-leabelt
+OK! Leather shirt -> ar-lshoshi
+OK! Leather leggings -> ar-lealegg
+OK! Leather shoes -> ar-leashoes
+OK! Leather boots -> ar-leaboots
+OK! Fur cap -> ar-furcap
+OK! Fur shirt -> ar-furshirt
+OK! Fur mittens -> ar-mittens
+OK! Fur leggings -> ar-furlegg
+OK! Fur hood -> ar-furhood
+OK! Fur footwear -> ar-furboots
+OK! Fur cloak -> ar-furcloak
+OK! Birch-bark necklace -> ar-bbneckl
+OK! Birch-bark shoes -> ar-bbshoes
+OK! Birch-bark cap -> ar-bbcap
+OK! Leather shin guards -> ar-leashgu
+OK! Leather forearm guards -> ar-leafagu
+OK! Leather cuirass -> ar-leacui
+OK! Fur overcoat -> ar-furocoat
+OK! Fur overcoat -> ar-furocoat
+OK! Fur overcoat -> ar-furocoat
+OK! Fur overcoat -> ar-furocoat
+OK! Fur overcoat -> ar-furocoat
+OK! Mail Cowl -> ar-mailcwl
+OK! Long Mail Cowl -> ar-lmailcwl
+OK! Mail Habergeon -> ar-mailhabe
+OK! Mail Hauberk -> ar-mailhaub
+OK! Long Mail Hauberk -> ar-lmailhau
+OK! Mail Leggings -> ar-maillegg
+OK! Mail mittens -> ar-mailmit
+OK! Iron helm -> ar-helm
+OK! Iron spectacle helm -> ar-sphelm
+OK! Lamellar hauberk -> ar-lamhaub
+OK! Lamellar cuirass -> ar-lamcui
+OK! Lamellar rerebraces -> ar-lamrere
+OK! Iron coudes -> ar-coudes
+OK! Lamellar forearm guards -> ar-lamfagu
+OK! Iron Kneecops -> ar-kneecops
+OK! Lamellar shin guards -> ar-lamshgu
+OK! Bear pipe leaves -> flo-bearpipe
+OK! Bear pipe flowers -> flo-bearpipe
+OK! Bear pipe -> flo-bearpipe
+OK! Dog pipe root -> flo-dogpipe
+OK! Dog pipe leaves -> flo-dogpipe
+OK! Dog pipe -> flo-dogpipe
+OK! Wolf pipe root -> flo-wolfpipe
+OK! Wolf pipe leaves -> flo-wolfpipe
+OK! Wolf pipe -> flo-wolfpipe
+OK! Roundshield -> wp-rshield
+OK! Buckler -> wp-buckler
+OK! Hunting Horn -> it-horn
+OK! Water lily -> flo-wlily
+OK! Skin -> it-wtrskin
+OK! Riverpig -> flo-riverpig
+OK! Clayweed seeds -> flo-clayweed
+OK! Clayweed leaves -> flo-clayweed
+OK! Clayweed -> flo-clayweed
+OK! Bogbean root -> flo-bogbean
+OK! Bogbean leaves -> flo-bogbean
+OK! Bogbean -> flo-bogbean
+OK! Pike -> fd-fish
+OK! Roach -> fd-fish
+OK! Perch -> fd-fish
+OK! Bream -> fd-fish
+OK! Pike-perch -> fd-fish
+OK! Trout -> fd-fish
+OK! Salmon -> fd-fish
+OK! Burbot -> fd-fish
+OK! Lavaret -> fd-fish
+OK! Fishing rod -> it-fishrod
+OK! Marsh calla root -> flo-mcalla
+OK! Marsh calla leaves -> flo-mcalla
+OK! Marsh calla -> flo-mcalla
+OK! Lake reed root -> flo-lakereed
+OK! Lake reed -> flo-lakereed
+OK! Milkweed root -> flo-milkweed
+OK! Milkweed leaves -> flo-milkweed
+OK! Milkweed -> flo-milkweed
+OK! Loop snare -> tr-loop
+OK! Burdock root -> flo-burdock
+OK! Burdock leaves -> flo-burdock
+OK! Paw-board fox trap -> tr-pawboard
+OK! Burdock -> flo-burdock
+OK! Stonecrop leaves -> flo-stncrop
+OK! Stonecrop -> flo-stncrop
+OK! Roseroot root -> flo-roseroot
+OK! Roseroot leaves -> flo-roseroot
+OK! Paddle -> it-paddle
+OK! Punt -> it-punt
+OK! Sesta -> it-sesta
+OK! Raft -> it-raft
+OK! Roseroot -> flo-roseroot
+OK! Bog flower leaves -> flo-bogflo
+OK! Bog flower -> flo-bogflo
+OK! Stone knife -> wp-stnknife
+OK! Knife -> wp-knife
+OK! Knife -> wp-knife
+OK! Knife -> wp-knife
+OK! Small knife -> wp-sknife
+OK! Broad knife -> wp-bknife
+OK! Hunting knife -> wp-hknife
+OK! Fisher's knife -> wp-fknife
+OK! Kaumolais knife -> wp-kknife
+OK! Northern knife -> wp-nknife
+OK! Skramasaksi -> wp-skrama
+OK! Shortsword -> wp-shsword
+OK! Scimitar -> wp-scimitar
+OK! Broadsword -> wp-sword
+OK! Njerpez scimitar -> wp-scimitar
+OK! Bastard Sword -> wp-bstsword
+OK! Battlesword -> wp-batsword
+OK! Club -> wp-club
+OK! Mace -> wp-club
+OK! Maul -> wp-club
+OK! Sickle -> wp-sickle
+OK! Throwing axe -> wp-handaxe
+OK! Handaxe -> wp-handaxe
+OK! Handaxe -> wp-handaxe
+OK! Battleaxe -> wp-bataxe
+OK! Small flail -> wp-sflail
+OK! Grainflail -> wp-flail
+OK! Javelin -> wp-javelin
+OK! Staff -> wp-staff
+OK! Spear -> wp-spear
+OK! Kaumolais spear -> wp-kauspear
+OK! Trident -> wp-trident
+OK! Small trident -> wp-smatrid
+OK! Wide trident -> wp-widetrid
+OK! Hard staff -> wp-hrdstaff
+OK! Northern spear -> wp-norspear
+OK! Ango -> wp-ango
+OK! Net -> it-net
+OK! Shortbow -> wp-shortbow
+OK! Longbow -> wp-longbow
+OK! Crossbow -> wp-crossbow
+OK! Heavy Crossbow -> wp-crossbow
+OK! Juniper bow -> wp-junipbow
+OK! Northern bow -> wp-northbow
+OK! Hunting bow -> wp-huntbow
+OK! Arrow -> wp-arrow
+OK! Arrow -> wp-arrow
+OK! Arrow -> wp-arrow
+OK! Arrow -> wp-arrow
+OK! Arrow -> wp-arrow
+OK! Arrow -> wp-arrow
+OK! Arrow -> wp-arrow
+OK! Arrow -> wp-arrow
+OK! Arrow -> wp-arrow
+OK! Blunt arrow -> wp-blarrow
+OK! Broadhead arrow -> wp-bharrow
+OK! Broad axe -> wp-broaxe
+OK! Carving axe -> wp-caraxe
+OK! Splitting axe -> wp-spliaxe
+OK! Woodsman's axe -> wp-woodaxe
+OK! Stone -> stone
+OK! Rock -> rock
+OK! Board -> it-board
+OK! Birch withe -> it-birwithe
+OK! Spruce withe -> it-sprwithe
+OK! Firewood -> it-firewood
+OK! Log -> log
+OK! Block of wood -> wdblk
+OK! Branch -> it-branch
+OK! Slender tree trunk -> sltrunk
+OK! Tree trunk -> trunk
+OK! Wooden stake -> it-wdstake
+OK! Spruce twig -> it-sprtwig
+OK! Stone-axe -> wp-stnaxe
+
+NEWTILES DONE: 319 -- MISSING: 1

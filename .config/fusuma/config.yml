@@ -1,0 +1,17 @@
+swipe:
+        3:
+
+                left:
+                        workspace: 'next'
+                right:
+                        workspace: 'prev'
+
+        4:
+                up:
+                        sendkey: "VOLUMEUP"
+                        threshold: 0.15
+                        interval: 0.1
+                down:
+                        sendkey: "VOLUMEDOWN"
+                        threshold: 0.15
+                        interval: 0.1

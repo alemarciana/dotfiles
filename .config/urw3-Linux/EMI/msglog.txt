@@ -1,0 +1,661 @@
+(3C5A98):16g8:[:]{050903D5}      | As you explore the wilderness a settlement comes into view up ahead!
+(143270):16g8:[#]{050903D4}      | Entering settled area ...
+(000000):16g8:[Y]{050903D4}      | You shake the needles from your shoulders and come forward among the people. You are entering a forester village...
+(000000):16g8:[G]{050903D4}      | Ground
+(000000):16g8:[G]{050903D4}      | Ground
+(A80000):16g8:[!]{050903D4}      | That's too steep to be climbed!
+(143270):16g8:[#]{050903D4}      | You see a stone here.
+(A80000):16g8:[!]{050903D4}      | There's a rowan blocking your way!
+(A80000):16g8:[!]{050903D4}      | There's an alder blocking your way!
+(A80000):16g8:[!]{050903D5}      | There's a birch blocking your way!
+(000000):16g8:[T]{050903D5}      | The Forester adventurer withdraws from your way.
+(000000):16g8:[Y]{050903D4}      | You hear a door opening.
+(000000):16g8:[Y]{050903D4}      | You hear a door closing.
+(A80000):16g8:[!]{050903D3}      | There's a birch blocking your way!
+(A80000):16g8:[!]{050803D3}      | There's a pine blocking your way!
+(A80000):16g8:[!]{050803D3}      | There's a young pine blocking your way!
+(A80000):16g8:[!]{050803D3}      | There's a pine blocking your way!
+(A80000):16g8:[!]{050803D3}      | There's a young pine blocking your way!
+(A80000):16g8:[!]{050903D3}      | There's a rowan blocking your way!
+(A80000):16g8:[!]{050903D3}      | There's an alder blocking your way!
+(143270):16g8:[#]{050903D3}      | Zooming out ... 
+(A80000):16g8:[!]{050D03D9}      | It's deep water there! You need to swim, or go by watercraft.
+(3C5A98):16g8:[:]{050C03D9}      | You are feeling rather warm.
+(A80000):16g8:[!]{050A03D9}      | It's deep water there! You need to swim, or go by watercraft.
+(147870):16g8:[?]{050A03D9}      | Drink from the natural source?
+(3C5A98):16g8:[:]{050A03D9}      | You take a sip of water.
+(008000):16g8:[=]{050A03D9}      | Your thirst is extinguished.
+(3C5A98):16g8:[:]{050A03D9}      | Live freely now and see the game-course information screen again when you are willing to take your next task.
+(000000):16g8:[W]{050A03D9}      | Water
+(575757):16g8:[_]{050A03D9}      | The water is chilly.
+(A80000):16g8:[!]{050A03D9}      | Please pick a direction where you can see!
+(A80000):16g8:[!]{050A03D9}      | Please pick a direction where you can see!
+(A80000):16g8:[!]{050A03D9}      | Please pick a direction where you can see!
+(000000):16g8:[S]{050A03D9}      | Spruce mire
+(A80000):16g8:[!]{050A03D9}      | Please pick a direction where you can see!
+(A80000):16g8:[!]{050A03D9}      | Please pick a direction where you can see!
+(000000):16g8:[W]{050A03D9}      | Water
+(575757):16g8:[_]{050A03D9}      | The water is chilly.
+(000000):16g8:[W]{050A03D9}      | Water
+(575757):16g8:[_]{050A03D9}      | The water is chilly.
+(000000):16g8:[W]{050A03D9}      | Water
+(575757):16g8:[_]{050A03D9}      | The water is chilly.
+(A80000):16g8:[!]{050A03D9}      | Please pick a direction where you can see!
+(000000):16g8:[C]{050A03D9}      | Coniferous forest
+(000000):16g8:[S]{050A03D9}      | Spruce mire
+(000000):16g8:[W]{050A03D9}      | Water
+(575757):16g8:[_]{050A03D9}      | The water is chilly.
+(143270):16g8:[#]{050903D4}      | Entering settled area ...
+(000000):16g8:[Y]{050903D4}      | You shake the needles from your shoulders and come forward among the people. You are entering a forester village...
+(3C5A98):16g8:[:]{050903D4}      | Live freely now and see the game-course information screen again when you are willing to take your next task.
+(143270):16g8:[#]{050903D4}      | You see a tree trunk here.
+(575757):16g8:[_]{050903D4}      | You can't zoom out directly right now. The area has activity going on.
+(575757):16g8:[_]{050903D4}      | Please walk a little further from this location and press [ENTER] again.
+(575757):16g8:[_]{050903D4}      | You can't zoom out directly right now. The area has activity going on.
+(575757):16g8:[_]{050903D4}      | Please walk a little further from this location and press [ENTER] again.
+(575757):16g8:[_]{050903D4}      | You can't zoom out directly right now. The area has activity going on.
+(575757):16g8:[_]{050903D4}      | Please walk a little further from this location and press [ENTER] again.
+(575757):16g8:[_]{050903D4}      | You can't zoom out directly right now. The area has activity going on.
+(575757):16g8:[_]{050903D4}      | Please walk a little further from this location and press [ENTER] again.
+(575757):16g8:[_]{050903D4}      | You can't zoom out directly right now. The area has activity going on.
+(575757):16g8:[_]{050903D4}      | Please walk a little further from this location and press [ENTER] again.
+(575757):16g8:[_]{050903D4}      | You can't zoom out directly right now. The area has activity going on.
+(575757):16g8:[_]{050903D4}      | Please walk a little further from this location and press [ENTER] again.
+(575757):16g8:[_]{050903D4}      | You can't zoom out directly right now. The area has activity going on.
+(575757):16g8:[_]{050903D4}      | Please walk a little further from this location and press [ENTER] again.
+(A80000):16g8:[!]{050903D4}      | There is nothing here to pick up.
+(AB5700):16g8:[+]{050903D4}      | Use this command also to unpack your pack animal or pick items from your companion.
+(A80000):16g8:[!]{050903D4}      | There is nothing here to pick up.
+(143270):16g8:[#]{050903D4}      | You see a tree trunk here.
+(A80000):16g8:[!]{050903D4}      | There's a rowan blocking your way!
+(575757):16g8:[_]{050903D4}      | You can't zoom out directly right now. The area has activity going on.
+(575757):16g8:[_]{050903D4}      | Please walk a little further from this location and press [ENTER] again.
+(575757):16g8:[_]{050903D4}      | You can't zoom out directly right now. The area has activity going on.
+(575757):16g8:[_]{050903D4}      | Please walk a little further from this location and press [ENTER] again.
+(575757):16g8:[_]{050903D4}      | You can't zoom out directly right now. The area has activity going on.
+(575757):16g8:[_]{050903D4}      | Please walk a little further from this location and press [ENTER] again.
+(000000):16g8:[Y]{050903D4}      | You hear capercaillie cooing in the north-west.
+(575757):16g8:[_]{050903D4}      | You can't zoom out directly right now. The area has activity going on.
+(575757):16g8:[_]{050903D4}      | Please walk a little further from this location and press [ENTER] again.
+(000000):16g8:[Y]{050903D4}      | You hear a door opening.
+(575757):16g8:[_]{050903D4}      | You can't zoom out directly right now. The area has activity going on.
+(575757):16g8:[_]{050903D4}      | Please walk a little further from this location and press [ENTER] again.
+(575757):16g8:[_]{050903D4}      | You can't zoom out directly right now. The area has activity going on.
+(575757):16g8:[_]{050903D4}      | Please walk a little further from this location and press [ENTER] again.
+(000000):16g8:[Y]{050903D4}      | You hear capercaillie cooing in the north-west.
+(000000):16g8:[Y]{050903D4}      | You hear a door closing.
+(143270):16g8:[#]{050903D4}      | You see a patch of 6 growing nettles here.
+(3C5A98):16g8:[:]{050903D4}      | It can be harvested after nearly two months. 
+(575757):16g8:[_]{050903D4}      | You can't zoom out directly right now. The area has activity going on.
+(575757):16g8:[_]{050903D4}      | Please walk a little further from this location and press [ENTER] again.
+(A80000):16g8:[!]{050903D4}      | There is nothing here to pick up.
+(A80000):16g8:[!]{050903D4}      | There's a south-west corner of a kota blocking your way!
+(A80000):16g8:[!]{050903D4}      | There's a northern wall of a kota blocking your way!
+(A80000):16g8:[!]{050903D4}      | There's a north-east corner of a kota blocking your way!
+(143270):16g8:[#]{050903D4}      | You see a patch of 3 growing nettles here.
+(3C5A98):16g8:[:]{050903D4}      | It can be harvested after nearly two months. 
+(000000):16g8:[Y]{050903D4}      | You hear capercaillie cooing in the west.
+(3C5A98):16g9:[:]{050903D4}      | You feel warm.
+(000000):16g9:[Y]{050903D4}      | You hear capercaillie cooing in the south-west.
+(000000):16g9:[Y]{050903D4}      | You hear capercaillie cooing in the west.
+(3C5A98):16g9:[:]{050903D4}      | You are feeling hot.
+(000000):16g9:[Y]{050903D4}      | You hear capercaillie cooing in the north-west.
+(A80000):16g9:[!]{050903D4}      | Task cancelled!
+(A80000):16g9:[!]{050903D4}      | There is nothing here to pick up.
+(143270):16g9:[#]{050903D4}      | You see a stone here.
+(A80000):16g9:[!]{050903D4}      | There is nothing here to pick up.
+(143270):16g9:[#]{050903D4}      | You see a rock here.
+(3C5A98):16g9:[:]{050903D4}      | You pick up the rock.
+(3C5A98):16g9:[:]{050903D4}      | Live freely now and see the game-course information screen again when you are willing to take your next task.
+(147870):16g9:[?]{050903D3}      | Items at your feet will be moved to an adjacent location or packed on an animal.
+(A80000):16g9:[!]{050903D3}      | There are no items at your feet!
+(147870):16g9:[?]{050903D3}      | Items at your feet will be moved to an adjacent location or packed on an animal.
+(A80000):16g9:[!]{050903D3}      | There are no items at your feet!
+(143270):16g9:[#]{050903D3}      | Things that are here:
+(000000):16g9:[r]{050903D3}      | rock
+(000000):16g9:[s]{050903D3}      | stone
+(147870):16g9:[?]{050903D3}      | Items at your feet will be moved to an adjacent location or packed on an animal.
+(143270):16g9:[#]{050903D3}      | Zooming out ... 
+(143270):16g9:[#]{050903D4}      | Entering settled area ...
+(000000):16g9:[Y]{050903D4}      | You shake the needles from your shoulders and come forward among the people. You are entering a forester village...
+(143270):16g9:[#]{050903D4}      | Zooming out ... 
+(3C5A98):16ga:[:]{050803D3}      | You are sweaty.
+(A80000):16ga:[!]{050503D6}      | It's deep water there! You need to swim, or go by watercraft.
+(143270):16ga:[#]{050503D7}      | Zooming in ... 
+(000000):16ga:[B]{050503D7}      | By this lake, where the surface of the water reflects images of both you and the skies above, you take a closer look at this area.
+(000000):16ga:[Y]{050503D7}      | You hear goldeneye calling in the south-east.
+(3C5A98):16ga:[:]{050503D8}      | The water here is shallow enough to wade.
+(A80000):16ga:[!]{050503D8}      | The water is chilly.
+(147870):16ga:[?]{050503D8}      | Step into water?
+(143270):16ga:[#]{050503D8}      | You see a patch of 8 growing lake reeds here.
+(3C5A98):16ga:[:]{050503D8}      | It can be harvested after over a month. 
+(3C5A98):16ga:[:]{050503D8}      | You feel cold.
+(143270):16ga:[#]{050503D8}      | You see a growing black currant bush here.
+(3C5A98):16ga:[:]{050503D8}      | It can be harvested after couple of months. 
+(3C5A98):16ga:[:]{050503D8}      | You get out of the water.
+(147870):16ga:[?]{050503D8}      | Drink from the natural source?
+(3C5A98):16ga:[:]{050503D8}      | You take a sip of water.
+(008000):16ga:[=]{050503D8}      | Your thirst is extinguished.
+(A80000):16ga:[!]{050503D8}      | There is nothing here to pick up.
+(143270):16ga:[#]{050503D7}      | You see a rock here.
+(A80000):16ga:[!]{050503D7}      | There's a spruce blocking your way!
+(143270):16ga:[#]{050503D7}      | You see a growing strawberry shrub here.
+(3C5A98):16ga:[:]{050503D7}      | It can be harvested after a month. 
+(143270):16ga:[#]{050503D7}      | You see a growing strawberry shrub here.
+(3C5A98):16ga:[:]{050503D7}      | It can be harvested after a month. 
+(000000):16ga:[Y]{050503D7}      | You hear willow grouse cooing in the north-west.
+(A80000):16ga:[!]{050503D7}      | There is nothing here to pick up.
+(143270):16ga:[#]{050503D7}      | You see a branch here.
+(3C5A98):16ga:[:]{050503D7}      | You pick up the branch.
+(143270):16ga:[#]{050503D7}      | Using: TIMBERCRAFT
+(143270):16ga:[#]{050503D7}      | Timbercraft option: Fell a tree
+(A80000):16ga:[!]{050503D7}      | There's no proper tree to work with!
+(A80000):16ga:[!]{050503D7}      | There's a young spruce blocking your way!
+(147870):16ga:[?]{050503D7}      | You are about to start hauling items at your feet.
+(A80000):16ga:[!]{050503D7}      | There are no items at your feet!
+(147870):16ga:[?]{050503D7}      | You are about to start hauling items at your feet.
+(A80000):16ga:[!]{050503D7}      | There are no items at your feet!
+(147870):16ga:[?]{050503D7}      | You are about to start hauling items at your feet.
+(A80000):16ga:[!]{050503D7}      | There are no items at your feet!
+(143270):16ga:[#]{050503D7}      | Using: TIMBERCRAFT
+(143270):16ga:[#]{050503D7}      | Timbercraft option: Fell a tree
+(147870):16ga:[?]{050503D7}      | (1) You need cutting weapon - preferably a woodsman's axe.
+(AB5700):16ga:[+]{050503D7}      | The rough handaxe in your inventory will be used.
+(000000):16ga:[O]{050503D7}      | Ok, you have all the necessary equipment!
+(A80000):16ga:[!]{050503D7}      | The handaxe is a satisfactory tool here but suffers from rough quality.
+(000000):16ga:[G]{050503D7}      | Goldeneye flies up into the air.
+(3C5A98):16ga:[:]{050503D7}      | You feel chilly.
+(000000):16ga:[Y]{050503D7}      | You hear rustle of wings from the north-west.
+(000000):16ga:[Y]{050503D7}      | You hear willow grouse cooing in the north-west.
+(3C5A98):16ga:[:]{050503D7}      | The tree falls down.
+(143270):16ga:[#]{050503D7}      | Using: TIMBERCRAFT
+(143270):16ga:[#]{050503D7}      | Timbercraft option: Chop felled tree into blocks
+(A80000):16ga:[!]{050503D7}      | There is not any big tree trunk to work with!
+(143270):16ga:[#]{050503D7}      | You see 4 slender tree trunks here.
+(147870):16ga:[?]{050503D7}      | You are about to start hauling items at your feet.
+(3C5A98):16ga:[:]{050503D7}      | You start hauling. Use the command again when you are done.
+(143270):16ga:[#]{050503D7}      | Using: TIMBERCRAFT
+(143270):16ga:[#]{050503D7}      | Timbercraft option: Chop felled tree into blocks
+(A80000):16ga:[!]{050503D7}      | There is not any big tree trunk to work with!
+(3C5A98):16ga:[:]{050503D7}      | You haul items along.
+(663333):16ga:[&]{050503D7}      | You are a bit hungry.
+(3C5A98):16ga:[:]{050503D7}      | You haul items along.
+(A80000):16ga:[!]{050503D7}      | There's a young spruce blocking your way!
+(3C5A98):16ga:[:]{050503D7}      | You haul items along.
+(A80000):16ga:[!]{050503D7}      | You can't zoom out while hauling!
+(575757):16ga:[_]{050503D7}      | You stop hauling items.
+(A80000):16ga:[!]{050503D7}      | Some smaller kindling such as branches is required there.
+(575757):16ga:[_]{050503D7}      | Only weapons, armours and clothes can be examined.
+(575757):16ga:[_]{050503D7}      | Only weapons, armours and clothes can be examined.
+(575757):16ga:[_]{050503D7}      | Only weapons, armours and clothes can be examined.
+(575757):16ga:[_]{050503D7}      | Only weapons, armours and clothes can be examined.
+(575757):16ga:[_]{050503D7}      | Only weapons, armours and clothes can be examined.
+(575757):16ga:[_]{050503D7}      | Only weapons, armours and clothes can be examined.
+(575757):16ga:[_]{050503D7}      | Only weapons, armours and clothes can be examined.
+(575757):16ga:[_]{050503D7}      | Only weapons, armours and clothes can be examined.
+(575757):16ga:[_]{050503D7}      | Only weapons, armours and clothes can be examined.
+(575757):16ga:[_]{050503D7}      | Only weapons, armours and clothes can be examined.
+(575757):16ga:[_]{050503D7}      | Only weapons, armours and clothes can be examined.
+(575757):16ga:[_]{050503D7}      | Only weapons, armours and clothes can be examined.
+(AB5700):16ga:[+]{050503D7}      | The applicable weapon skill for the knife is "KNIFE".
+(AB5700):16ga:[+]{050503D7}      | Weapon classification of the knife gives it zero bonus to attack, and zero bonus to defense.
+(AB5700):16ga:[+]{050503D7}      | The applicable weapon skill for the knife is "KNIFE".
+(AB5700):16ga:[+]{050503D7}      | Weapon classification of the knife gives it zero bonus to attack, and zero bonus to defense.
+(AB5700):16ga:[+]{050503D7}      | The applicable weapon skill for the handaxe is "AXE".
+(AB5700):16ga:[+]{050503D7}      | Weapon classification of the handaxe gives it a very little bonus to attack, and a very little bonus to defense.
+(143270):16ga:[#]{050503D7}      | HELP AND GAME OPTIONS: Game encyclopedia
+(A80000):16ga:[!]{050503D7}      | There's a young spruce blocking your way!
+(143270):16ga:[#]{050503D7}      | Things that are here:
+(000000):16ga:[r]{050503D7}      | rock
+(000000):16ga:[b]{050503D7}      | branch
+(A80000):16ga:[!]{050503D7}      | There's a young spruce blocking your way!
+(A80000):16ga:[!]{050503D7}      | More firewood is required there.
+(143270):16ga:[#]{050503D7}      | Zooming out ... 
+(143270):16ga:[#]{050503D7}      | Zooming in ... 
+(000000):16ga:[B]{050503D7}      | By this lake, where the surface of the water reflects images of both you and the skies above, you take a closer look at this area.
+(A80000):16ga:[!]{050503D7}      | Some smaller kindling such as branches is required there.
+(A80000):16ga:[!]{050503D7}      | There's nothing to set on fire.
+(575757):16ga:[_]{050503D7}      | Place some firewood over there first and then try to build a fire.
+(575757):16ga:[_]{050503D7}      | Only weapons, armours and clothes can be examined.
+(143270):16ga:[#]{050503D7}      | HELP AND GAME OPTIONS: Setup options
+(143270):16ga:[#]{050503D7}      | HELP AND GAME OPTIONS: Keyboard commands
+(3C5A98):16ga:[:]{050503D7}      | You drop the branch.
+(A80000):16ga:[!]{050503D7}      | Some smaller kindling such as branches is required there.
+(143270):16ga:[#]{050503D7}      | You see 4 slender tree trunks here.
+(3C5A98):16ga:[:]{050503D7}      | You feel a bit cool.
+(143270):16ga:[#]{050503D7}      | You see 4 slender tree trunks here.
+(A80000):16ga:[!]{050503D7}      | More firewood is required there.
+(143270):16ga:[#]{050503D7}      | You see 4 slender tree trunks here.
+(A80000):16ga:[!]{050503D7}      | There's nothing to set on fire.
+(575757):16ga:[_]{050503D7}      | Place some firewood over there first and then try to build a fire.
+(3C5A98):16ga:[:]{050503D7}      | You pick up the slender tree trunk.
+(143270):16ga:[#]{050503D7}      | You see a branch here.
+(143270):16ga:[#]{050503D7}      | You see a branch here.
+(A80000):16ga:[!]{050503D7}      | There is nothing here to pick up.
+(3C5A98):16ga:[:]{050503D7}      | You drop the slender tree trunk.
+(143270):16ga:[#]{050503D7}      | You see a branch here.
+(143270):16ga:[#]{050503D7}      | You see a slender tree trunk here.
+(143270):16ga:[#]{050503D7}      | Zooming out ... 
+(143270):16ga:[#]{050503D7}      | Zooming in ... 
+(000000):16ga:[T]{050503D7}      | There is coniferous forest here and you take a closer look at this area.
+(A80000):16ga:[!]{050503D7}      | You don't have anything to drink.
+(143270):16ga:[#]{050503D7}      | You see a slender tree trunk here.
+(143270):16ga:[#]{050503D7}      | Zooming out ... 
+(143270):16ga:[#]{050503D7}      | Zooming in ... 
+(000000):16ga:[T]{050503D7}      | There is coniferous forest here and you take a closer look at this area.
+(143270):16ga:[#]{050503D7}      | You see a slender tree trunk here.
+(143270):16ga:[#]{050503D7}      | You see a slender tree trunk here.
+(143270):16ga:[#]{050503D7}      | HELP AND GAME OPTIONS: Keyboard commands
+(143270):16ga:[#]{050503D7}      | You see a slender tree trunk here.
+(A80000):16ga:[!]{050503D7}      | There is nothing here to pick up.
+(143270):16ga:[#]{050503D7}      | You see a slender tree trunk here.
+(3C5A98):16ga:[:]{050503D7}      | You pick up the slender tree trunk.
+(143270):16ga:[#]{050503D7}      | You see a branch here.
+(3C5A98):16ga:[:]{050503D7}      | You drop the slender tree trunk.
+(A80000):16ga:[!]{050503D7}      | There's nothing to set on fire.
+(575757):16ga:[_]{050503D7}      | Place some firewood over there first and then try to build a fire.
+(A80000):16ga:[!]{050503D7}      | More kindling such as branches is required there.
+(A80000):16ga:[!]{050503D7}      | There's a young spruce blocking your way!
+(A80000):16ga:[!]{050503D7}      | There is nothing here to pick up.
+(143270):16ga:[#]{050503D7}      | Things that are here:
+(000000):16ga:[r]{050503D7}      | rock
+(000000):16ga:[b]{050503D7}      | branch
+(3C5A98):16ga:[:]{050503D7}      | You pick up the branch.
+(000000):16ga:[Y]{050503D7}      | You hear willow grouse cooing in the north-west.
+(143270):16ga:[#]{050403D7}      | You see a goldeneye feather here.
+(A80000):16ga:[!]{050503D7}      | There is nothing here to pick up.
+(143270):16ga:[#]{050503D7}      | You see a branch here.
+(3C5A98):16ga:[:]{050503D7}      | You pick up the branch.
+(143270):16ga:[#]{050403D7}      | You see a rock here.
+(663333):16ga:[&]{050403D7}      | You are a bit hungry.
+(143270):16ga:[#]{050403D7}      | You see a rock here.
+(A80000):16ga:[!]{050303D7}      | There's a big rock blocking your way!
+(3C5A98):16ga:[:]{050303D7}      | You drop the 2 branches.
+(A80000):16ga:[!]{050303D7}      | There's nothing to set on fire.
+(575757):16ga:[_]{050303D7}      | Place some firewood over there first and then try to build a fire.
+(143270):16ga:[#]{050303D7}      | You see 2 branches here.
+(A80000):16ga:[!]{050303D7}      | More firewood is required there.
+(A80000):16ga:[!]{050303D6}      | There's a spruce blocking your way!
+(A80000):16ga:[!]{050303D6}      | There's a young spruce blocking your way!
+(A80000):16ga:[!]{050303D6}      | There is nothing here to pick up.
+(143270):16ga:[#]{050303D6}      | Using: TIMBERCRAFT
+(143270):16ga:[#]{050303D6}      | Timbercraft option: Fell a tree
+(147870):16ga:[?]{050303D6}      | (1) You need cutting weapon or by hand.
+(AB5700):16ga:[+]{050303D6}      | The knife in your inventory will be used.
+(000000):16ga:[O]{050303D6}      | Ok, you have all the necessary equipment!
+(3C5A98):16ga:[:]{050303D6}      | The tree falls down.
+(143270):16ga:[#]{050303D6}      | You see a spruce sapling here.
+(143270):16ga:[#]{050303D6}      | You see a spruce sapling here.
+(3C5A98):16ga:[:]{050303D6}      | You pick up the spruce sapling.
+(A80000):16ga:[!]{050303D7}      | More firewood is required there.
+(3C5A98):16ga:[:]{050303D7}      | You drop the spruce sapling.
+(3C5A98):16ga:[:]{050303D7}      | You pick up the spruce sapling.
+(143270):16ga:[#]{050303D7}      | You see 2 branches here.
+(3C5A98):16ga:[:]{050303D7}      | You drop the spruce sapling.
+(000000):16gb:[Y]{050303D7}      | You did not succeed in making a fire.
+(663333):16gb:[&]{050303D7}      | You are a bit hungry.
+(000000):16gb:[Y]{050303D7}      | You managed to make a fire.
+(3C5A98):16gb:[:]{050303D7}      | Live freely now and see the game-course information screen again when you are willing to take your next task.
+(143270):16gb:[#]{050303D7}      | A game-course event is coming up...
+(AB5700):16gb:[+]{050303D7}      | You got a fresh pike!
+(143270):16gb:[#]{050303D7}      | Using: FISHING
+(143270):16gb:[#]{050303D7}      | Fishing options: Set a net
+(A80000):16gb:[!]{050303D7}      | There's no open water around here!
+(143270):16gb:[#]{050303D7}      | Using: FISHING
+(143270):16gb:[#]{050303D7}      | Fishing options: Set a net
+(A80000):16gb:[!]{050303D7}      | You can't fish with that!
+(143270):16gb:[#]{050303D7}      | Using: FISHING
+(143270):16gb:[#]{050303D7}      | Fishing options: Active fishing
+(000000):16gb:[Y]{050303D7}      | You ready yourself to knock down any fish that dares to approach the coast-line.
+(3C5A98):16gb:[:]{050303D7}      | You feel comfortably warm.
+(3C5A98):16gc:[:]{050303D7}      | You are feeling rather warm.
+(3C5A98):16gc:[:]{050303D7}      | You feel warm.
+(3C5A98):16gd:[:]{050303D7}      | You are feeling hot.
+(000000):16gd:[Y]{050303D7}      | You didn't manage to catch any fish.
+(663333):16gd:[&]{050303D7}      | You are hungry.
+(143270):16gd:[#]{050303D7}      | Using: FISHING
+(143270):16gd:[#]{050303D7}      | Fishing options: Active fishing
+(A80000):16gd:[!]{050303D7}      | You can't fish with that!
+(143270):16gd:[#]{050303D7}      | Using: FISHING
+(143270):16gd:[#]{050303D7}      | Fishing options: Active fishing
+(A80000):16gd:[!]{050303D7}      | You can't fish with that!
+(143270):16gd:[#]{050303D7}      | Using: FISHING
+(143270):16gd:[#]{050303D7}      | Fishing options: Active fishing
+(A80000):16gd:[!]{050303D7}      | You can't fish with that!
+(143270):16gd:[#]{050303D7}      | Using: FISHING
+(143270):16gd:[#]{050303D7}      | Fishing options: Active fishing
+(000000):16gd:[Y]{050303D7}      | You ready yourself to knock down any fish that dares to approach the coast-line.
+(3C5A98):16gd:[:]{050303D7}      | You are sweaty.
+(000000):16gf:[Y]{050303D7}      | You hear kuikka calling in the west.
+(000000):16gg:[Y]{050303D7}      | You didn't manage to catch any fish.
+(3C5A98):16gg:[:]{050303D7}      | The water here is shallow enough to wade.
+(147870):16gg:[?]{050303D7}      | Step into water?
+(3C5A98):16gg:[:]{050303D7}      | You feel a bit cool.
+(3C5A98):16gg:[:]{050303D7}      | You get out of the water.
+(143270):16gg:[#]{050303D7}      | Using: FISHING
+(143270):16gg:[#]{050303D7}      | Fishing options: Active fishing
+(000000):16gg:[Y]{050303D7}      | You ready yourself to knock down any fish that dares to approach the coast-line.
+(3C5A98):16gg:[:]{050303D7}      | You feel comfortably warm.
+(3C5A98):16gh:[:]{050303D7}      | You are feeling rather warm.
+(3C5A98):16gh:[:]{050303D7}      | You feel warm.
+(3C5A98):16gi:[:]{050303D7}      | You are feeling hot.
+(000000):16gi:[Y]{050303D7}      | You didn't manage to catch any fish.
+(3C5A98):16gi:[:]{050303D7}      | The water here is shallow enough to wade.
+(147870):16gi:[?]{050303D7}      | Step into water?
+(3C5A98):16gi:[:]{050303D7}      | You feel a bit cool.
+(3C5A98):16gi:[:]{050303D7}      | You get out of the water.
+(143270):16gi:[#]{050303D7}      | You see a rock here.
+(3C5A98):16gi:[:]{050303D7}      | The water here is shallow enough to wade.
+(147870):16gi:[?]{050303D7}      | Step into water?
+(143270):16gi:[#]{050303D7}      | You see a patch of 7 growing lake reeds here.
+(3C5A98):16gi:[:]{050303D7}      | It can be harvested after over a month. 
+(143270):16gi:[#]{050303D7}      | You see a patch of 6 growing lake reeds here.
+(3C5A98):16gi:[:]{050303D7}      | It can be harvested after over a month. 
+(143270):16gi:[#]{050303D7}      | You see a patch of 6 growing lake reeds here.
+(3C5A98):16gi:[:]{050303D7}      | It can be harvested after over a month. 
+(A80000):16gi:[!]{050303D7}      | It's deep water there! You need to swim, or go by watercraft.
+(147870):16gi:[?]{050303D7}      | Swim?
+(143270):16gi:[#]{050303D7}      | Using: FISHING
+(143270):16gi:[#]{050303D7}      | Fishing options: Active fishing
+(000000):16gi:[Y]{050303D7}      | You ready yourself to knock down any fish that dares to approach the coast-line.
+(3C5A98):16gi:[:]{050303D7}      | You feel chilly.
+(3C5A98):16gi:[:]{050303D7}      | You feel cold.
+(3C5A98):16gj:[:]{050303D7}      | You feel bitterly cold.
+(000000):16gj:[Y]{050303D7}      | You hear rustle of wings from the south-west.
+(3C5A98):16gj:[:]{050303D7}      | You are numbingly cold.
+(000000):16gk:[Y]{050303D7}      | You hear rustle of wings from the west.
+(3C5A98):16gk:[:]{050303D7}      | Meanwhile, kuikka enters your view...
+(147870):16gk:[?]{050303D7}      | Abort task?
+(000000):16gk:[K]{050303D7}      | Kuikka lands down.
+(000000):16gk:[K]{050303D7}      | Kuikka flies up into the air.
+(000000):16gk:[T]{050303D7}      | The kuikka calls.
+(3C5A98):16gk:[:]{050303D7}      | You are freezing.
+(663333):16gk:[&]{050303D7}      | You are shivering all over from the cold and feel confused.
+(147870):16gk:[?]{050303D7}      | Abort task?
+(A80000):16gk:[!]{050303D7}      | Task cancelled!
+(143270):16gk:[#]{050303D7}      | You see a patch of 6 growing lake reeds here.
+(3C5A98):16gk:[:]{050303D7}      | It can be harvested after over a month. 
+(143270):16gk:[#]{050303D7}      | You see a patch of 7 growing lake reeds here.
+(3C5A98):16gk:[:]{050303D7}      | It can be harvested after over a month. 
+(3C5A98):16gk:[:]{050303D7}      | You get out of the water.
+(143270):16gk:[#]{050303D7}      | You see a rock here.
+(000000):16gk:[T]{050303D7}      | The kuikka seems alert. 
+(000000):16gk:[T]{050303D7}      | The kuikka gets some distance.
+(143270):16gk:[#]{050303D7}      | You see 2 kuikka feathers here.
+(A80000):16gk:[!]{050303D6}      | There's a spruce blocking your way!
+(663333):16gk:[&]{050303D6}      | You are shivering all over from the cold and feel confused.
+(000000):16gk:[Y]{050303D6}      | You hear something running away in the south-west.
+(A80000):16gk:[!]{050303D6}      | There's a young spruce blocking your way!
+(A80000):16gk:[!]{050303D6}      | There's a spruce blocking your way!
+(143270):16gk:[#]{050303D6}      | Using: TIMBERCRAFT
+(143270):16gk:[#]{050303D6}      | Timbercraft option: Fell a tree
+(147870):16gk:[?]{050303D6}      | (1) You need cutting weapon or by hand.
+(AB5700):16gk:[+]{050303D6}      | The knife in your inventory will be used.
+(000000):16gk:[O]{050303D6}      | Ok, you have all the necessary equipment!
+(663333):16gk:[&]{050303D6}      | Your timbercraft performance is just a little disturbed due to the load you are carrying.
+(3C5A98):16gk:[:]{050303D6}      | The tree falls down.
+(663333):16gk:[&]{050303D6}      | You are shivering all over from the cold and feel confused.
+(CC3333):16gk:[&]{050303D6}      | You are hungry as a bear!
+(663333):16gk:[&]{050303D6}      | You are a bit thirsty.
+(000000):16gk:[Y]{050303D6}      | You hear kuikka calling in the south-east.
+(A80000):16gk:[!]{050303D6}      | There's a spruce blocking your way!
+(143270):16gk:[#]{050303D6}      | Using: BOW
+(A80000):16gk:[!]{050303D6}      | This skill is automatically used when necessary!
+(AB5700):16gk:[+]{050303D6}      | The shortbow wielded as a primary weapon.
+(A80000):16gk:[!]{050303D6}      | Don't strike with a bow, but use [t]hrow command and select an arrow to shoot.
+(A80000):16gk:[!]{050303D6}      | Throwing a bow isn't a wise move! Keep it wielded and shoot arrows instead.
+(3C5A98):16gk:[:]{050303D6}      | You are numbingly cold.
+(000000):16gk:[T]{050303D6}      | The kuikka seems alert. 
+(000000):16gk:[K]{050303D7}      | Kuikka flees.
+(000000):16gk:[K]{050303D7}      | Kuikka flies up into the air.
+(000000):16gk:[Y]{050303D7}      | You hear rustle of wings from the south-east.
+(000000):16gk:[Y]{050303D6}      | You hear willow grouse cooing in the north-east.
+(A80000):16gk:[!]{050303D6}      | There's a spruce blocking your way!
+(143270):16gk:[#]{050203D6}      | Things that are here:
+(000000):16gk:[r]{050203D6}      | rock
+(000000):16gk:[b]{050203D6}      | branch
+(A80000):16gk:[!]{050203D6}      | There is nothing here to pick up.
+(143270):16gk:[#]{050203D6}      | Things that are here:
+(000000):16gk:[r]{050203D6}      | rock
+(000000):16gk:[b]{050203D6}      | branch
+(3C5A98):16gk:[:]{050203D6}      | You pick up the branch.
+(143270):16gk:[#]{050203D6}      | You see a rock here.
+(000000):16gk:[Y]{050203D6}      | You hear willow grouse cooing in the east.
+(143270):16gk:[#]{050203D6}      | You see a stone here.
+(A80000):16gk:[!]{050303D6}      | There's a spruce blocking your way!
+(143270):16gk:[#]{050303D6}      | You see a stone here.
+(A80000):16gk:[!]{050303D6}      | There's a young spruce blocking your way!
+(A80000):16gk:[!]{050303D6}      | There's a spruce blocking your way!
+(000000):16gk:[Y]{050303D6}      | You hear willow grouse cooing in the north-east.
+(143270):16gk:[#]{050303D6}      | You see a rock here.
+(143270):16gk:[#]{050303D6}      | You see 3 growing blueberry shrubs here.
+(3C5A98):16gk:[:]{050303D6}      | It can be harvested after few months. 
+(143270):16gk:[#]{050303D6}      | You see 4 growing blueberry shrubs here.
+(3C5A98):16gk:[:]{050303D6}      | It can be harvested after couple of months. 
+(143270):16gk:[#]{050303D6}      | You see a rock here.
+(143270):16gk:[#]{050303D6}      | You see a rock here.
+(143270):16gk:[#]{050303D6}      | You see a rock here.
+(143270):16gk:[#]{050303D6}      | Things that are here:
+(000000):16gk:[r]{050303D6}      | rock
+(000000):16gk:[s]{050303D6}      | stone
+(A80000):16gk:[!]{050303D6}      | There's a spruce blocking your way!
+(143270):16gk:[#]{050303D7}      | You see a burnt-out fire here.
+(143270):16gk:[#]{050303D6}      | You see a branch here.
+(3C5A98):16gk:[:]{050303D6}      | You pick up the branch.
+(143270):16gk:[#]{050303D6}      | You see a rock here.
+(A80000):16gk:[!]{050303D6}      | There's a young spruce blocking your way!
+(143270):16gk:[#]{050303D6}      | Using: TIMBERCRAFT
+(143270):16gk:[#]{050303D6}      | Timbercraft option: Fell a tree
+(147870):16gk:[?]{050303D6}      | (1) You need cutting weapon - preferably a woodsman's axe.
+(AB5700):16gk:[+]{050303D6}      | The rough handaxe in your inventory will be used.
+(000000):16gk:[O]{050303D6}      | Ok, you have all the necessary equipment!
+(663333):16gk:[&]{050303D6}      | Your timbercraft performance is just a little disturbed due to the load you are carrying.
+(A80000):16gk:[!]{050303D6}      | The handaxe is a satisfactory tool here but suffers from rough quality.
+(3C5A98):16gl:[:]{050303D6}      | The tree falls down.
+(143270):16gl:[#]{050303D6}      | You see 5 slender tree trunks here.
+(3C5A98):16gl:[:]{050303D6}      | You pick up the slender tree trunk.
+(3C5A98):16gl:[:]{050303D6}      | You feel weary.
+(A80000):16gl:[!]{050303D6}      | There is nothing here to pick up.
+(3C5A98):16gl:[:]{050303D6}      | You drop the 2 branches.
+(A80000):16gl:[!]{050303D7}      | There's nothing to set on fire.
+(575757):16gl:[_]{050303D7}      | Place some firewood over there first and then try to build a fire.
+(A80000):16gl:[!]{050303D6}      | More firewood is required there.
+(143270):16gl:[#]{050303D6}      | You see 2 branches here.
+(3C5A98):16gl:[:]{050303D6}      | You drop the slender tree trunk.
+(A80000):16gl:[!]{050303D6}      | More kindling such as branches is required there.
+(143270):16gl:[#]{050303D6}      | Things that are here:
+(000000):16gl:[2]{050303D6}      | 2 branches
+(000000):16gl:[s]{050303D6}      | slender tree trunk
+(3C5A98):16gl:[:]{050303D6}      | You pick up the 2 branches.
+(143270):16gl:[#]{050303D6}      | Using: TIMBERCRAFT
+(143270):16gl:[#]{050303D6}      | Timbercraft option: Fell a tree
+(147870):16gl:[?]{050303D6}      | (1) You need cutting weapon or by hand.
+(AB5700):16gl:[+]{050303D6}      | The knife in your inventory will be used.
+(000000):16gl:[O]{050303D6}      | Ok, you have all the necessary equipment!
+(663333):16gl:[&]{050303D6}      | Your timbercraft performance is just a little disturbed due to the load you are carrying.
+(3C5A98):16gl:[:]{050303D6}      | The tree falls down.
+(143270):16gl:[#]{050303D6}      | You see a spruce sapling here.
+(3C5A98):16gl:[:]{050303D6}      | You drop the 2 branches.
+(000000):16gl:[Y]{050303D6}      | You did not succeed in making a fire.
+(CC3333):16gl:[&]{050303D6}      | You are hungry as a bear!
+(000000):16gl:[Y]{050303D6}      | You managed to make a fire.
+(000000):16gl:[Y]{050303D6}      | You hear kuikka calling in the south-west.
+(3C5A98):16gl:[:]{050303D6}      | You feel bitterly cold.
+(000000):16gl:[T]{050303D6}      | The fire is about to burn out soon.
+(3C5A98):16gl:[:]{050303D6}      | You feel cold.
+(000000):16gl:[T]{050303D6}      | The fire is about to burn out soon.
+(000000):16gl:[Y]{050303D6}      | You hear kuikka calling in the south-west.
+(000000):16gl:[T]{050303D6}      | The fire is about to burn out soon.
+(000000):16gl:[Y]{050303D6}      | You hear goldeneye calling in the south-east.
+(000000):16gl:[T]{050303D6}      | The fire is about to burn out soon.
+(000000):16gl:[Y]{050303D6}      | You hear goldeneye calling in the south-east.
+(000000):16gl:[Y]{050303D6}      | You hear rustle of wings from the south-east.
+(3C5A98):16gm:[:]{050303D6}      | You feel chilly.
+(000000):16gm:[Y]{050303D6}      | You hear kuikka calling in the west.
+(A80000):16gm:[!]{050303D6}      | Task cancelled!
+(A80000):16gm:[!]{050303D6}      | There's a spruce blocking your way!
+(143270):16gm:[#]{050303D6}      | Using: TIMBERCRAFT
+(143270):16gm:[#]{050303D6}      | Timbercraft option: Chop felled tree into blocks
+(A80000):16gm:[!]{050303D6}      | There is not any big tree trunk to work with!
+(143270):16gm:[#]{050303D6}      | You see 4 slender tree trunks here.
+(143270):16gm:[#]{050303D6}      | Using: TIMBERCRAFT
+(143270):16gm:[#]{050303D6}      | Timbercraft option: Chop felled tree into blocks
+(A80000):16gm:[!]{050303D6}      | There is not any big tree trunk to work with!
+(143270):16gm:[#]{050303D6}      | Using: TIMBERCRAFT
+(143270):16gm:[#]{050303D6}      | Timbercraft option: Carve trunk into a log
+(A80000):16gm:[!]{050303D6}      | There is no tree trunk from which you could make a log!
+(143270):16gm:[#]{050303D6}      | Using: TIMBERCRAFT
+(143270):16gm:[#]{050303D6}      | Timbercraft option: Split firewood from a block
+(A80000):16gm:[!]{050303D6}      | There is no any block of wood to work with!
+(143270):16gm:[#]{050303D6}      | Using: TIMBERCRAFT
+(143270):16gm:[#]{050303D6}      | Timbercraft option: Cut branches/twigs from a tree
+(A80000):16gm:[!]{050303D6}      | There's no tree!
+(143270):16gm:[#]{050303D6}      | Using: TIMBERCRAFT
+(143270):16gm:[#]{050303D6}      | Timbercraft option: Cut branches/twigs from a tree
+(147870):16gm:[?]{050303D6}      | (1) You need cutting weapon or by hand.
+(AB5700):16gm:[+]{050303D6}      | The knife in your inventory will be used.
+(000000):16gm:[O]{050303D6}      | Ok, you have all the necessary equipment!
+(000000):16gm:[Y]{050303D6}      | You finished cutting the branches. They are lying beside you on the ground.
+(3C5A98):16gm:[:]{050303D6}      | You feel a bit cool.
+(000000):16gm:[Y]{050303D6}      | You managed to make a fire.
+(A80000):16gm:[!]{050303D6}      | There's nothing to set on fire.
+(575757):16gm:[_]{050303D6}      | Place some firewood over there first and then try to build a fire.
+(143270):16gm:[#]{050303D6}      | You see a slender tree trunk here.
+(3C5A98):16gm:[:]{050303D6}      | You pick up the slender tree trunk.
+(143270):16gm:[#]{050303D6}      | You see 4 slender tree trunks here.
+(000000):16gm:[Y]{050303D6}      | You hear kuikka calling in the west.
+(AB5700):16gm:[+]{050303D6}      | You swing your arm back preparing to throw the slender tree trunk.
+(000000):16gm:[Y]{050303D6}      | You fail to deliver a steady throw.
+(143270):16gm:[#]{050303D6}      | You see 4 slender tree trunks here.
+(143270):16gm:[#]{050303D6}      | HELP AND GAME OPTIONS: Keyboard commands
+(000000):16gm:[I]{050303D6}      | It's plain good roasted forest reindeer cut and happily consumed too.
+(000000):16gm:[Y]{050303D6}      | You hear kuikka calling in the west.
+(3C5A98):16gm:[:]{050303D6}      | You finish eating the roasted forest reindeer cut.
+(000000):16gm:[I]{050303D6}      | It's plain good rye bread.
+(3C5A98):16gm:[:]{050303D6}      | You feel comfortably warm.
+(008000):16gm:[=]{050303D6}      | Burp! Your stomach is full.
+(3C5A98):16gm:[:]{050303D6}      | You finish eating some of that rye bread.
+(143270):16gm:[#]{050303D6}      | HELP AND GAME OPTIONS: Keyboard commands
+(A80000):16gm:[!]{050303D6}      | There is nothing here to pick up.
+(3C5A98):16gm:[:]{050303D6}      | You are sleepy and extremely tired.
+(147870):16gm:[?]{050303D6}      | Items at your feet will be moved to an adjacent location or packed on an animal.
+(A80000):16gm:[!]{050303D6}      | There are no items at your feet!
+(147870):16gm:[?]{050303D6}      | Items at your feet will be moved to an adjacent location or packed on an animal.
+(A80000):16gm:[!]{050303D6}      | There are no items at your feet!
+(147870):16gm:[?]{050303D6}      | Items at your feet will be moved to an adjacent location or packed on an animal.
+(A80000):16gm:[!]{050303D6}      | There are no items at your feet!
+(147870):16gm:[?]{050303D6}      | You are about to start hauling items at your feet.
+(A80000):16gm:[!]{050303D6}      | There are no items at your feet!
+(147870):16gm:[?]{050303D6}      | You are about to start hauling items at your feet.
+(A80000):16gm:[!]{050303D6}      | There are no items at your feet!
+(A80000):16gm:[!]{050303D6}      | There is nothing here to pick up.
+(3C5A98):16gm:[:]{050303D6}      | You are feeling rather warm.
+(000000):16gm:[Y]{050303D6}      | You hear goldeneye calling in the south-east.
+(3C5A98):16gm:[:]{050303D6}      | You feel warm.
+(3C5A98):16gm:[:]{050303D6}      | You are feeling hot.
+(A80000):16gn:[!]{050303D6}      | Task cancelled!
+(663333):16gn:[&]{050303D7}      | You are thirsty.
+(3C5A98):16gn:[:]{050303D6}      | You begin sneaking, trying to stay hidden and move as quietly as possible.
+(3C5A98):16gn:[:]{050303D6}      | You quit hiding and sneaking.
+(3C5A98):16gn:[:]{050303D6}      | You begin sneaking, trying to stay hidden and move as quietly as possible.
+(3C5A98):16gn:[:]{050303D6}      | You quit hiding and sneaking.
+(A80000):16gn:[!]{050303D6}      | There is nothing here to pick up.
+(A80000):16gn:[!]{050303D6}      | You should have the carcass nearby on the ground, one step away at the most.
+(147870):16gn:[?]{050303D6}      | Items at your feet will be moved to an adjacent location or packed on an animal.
+(A80000):16gn:[!]{050303D6}      | There are no items at your feet!
+(663333):16gn:[&]{050303D6}      | You fall prone.
+(663333):16gn:[&]{050303D6}      | You get back on your feet.
+(663333):16gn:[&]{050303D6}      | You fall prone.
+(663333):16gn:[&]{050303D6}      | You get back on your feet.
+(663333):16gn:[&]{050303D6}      | You fall prone.
+(663333):16gn:[&]{050303D6}      | You get back on your feet.
+(3C5A98):16gn:[:]{050303D6}      | You are sweaty.
+(663333):16gn:[&]{050303D6}      | You fall prone.
+(000000):16gn:[Y]{050303D6}      | You hear goldeneye calling in the south-east.
+(3C5A98):16gn:[:]{050303D6}      | You are sweating a lot.
+(000000):16gn:[Y]{050303D6}      | You hear kuikka calling in the north-west.
+(3C5A98):16gn:[:]{050303D6}      | Meanwhile, goldeneye enters your view...
+(147870):16gn:[?]{050303D6}      | Abort task?
+(000000):26g0:[Y]{050303D6}      | You hear goldeneye calling in the west.
+(000000):26g1:[Y]{050303D6}      | You hear kuikka calling in the south-west.
+(A80000):26g1:[!]{050303D6}      | Task cancelled!
+(3C5A98):26g1:[:]{050303D6}      | You crawl.
+(A80000):26g1:[!]{050303D6}      | You should have the carcass nearby on the ground, one step away at the most.
+(3C5A98):26g1:[:]{050303D6}      | You crawl.
+(3C5A98):26g1:[:]{050303D6}      | You begin sneaking, trying to stay hidden and move as quietly as possible.
+(3C5A98):26g1:[:]{050303D6}      | You quit hiding and sneaking.
+(A80000):26g1:[!]{050303D6}      | There is nothing here to pick up.
+(147870):26g1:[?]{050303D6}      | You are about to start hauling items at your feet.
+(A80000):26g1:[!]{050303D6}      | There are no items at your feet!
+(A80000):26g1:[!]{050303D6}      | You should have the carcass nearby on the ground, one step away at the most.
+(663333):26g1:[&]{050303D6}      | You get back on your feet.
+(663333):26g1:[&]{050303D6}      | You fall prone.
+(663333):26g1:[&]{050303D6}      | You get back on your feet.
+(663333):26g1:[&]{050303D6}      | You fall prone.
+(663333):26g1:[&]{050303D6}      | You get back on your feet.
+(663333):26g1:[&]{050303D6}      | You fall prone.
+(663333):26g1:[&]{050303D6}      | You get back on your feet.
+(663333):26g1:[&]{050303D6}      | You fall prone.
+(663333):26g1:[&]{050303D6}      | You get back on your feet.
+(663333):26g1:[&]{050303D6}      | You fall prone.
+(663333):26g1:[&]{050303D6}      | You get back on your feet.
+(663333):26g1:[&]{050303D6}      | You fall prone.
+(663333):26g1:[&]{050303D6}      | You get back on your feet.
+(663333):26g1:[&]{050303D6}      | You fall prone.
+(663333):26g1:[&]{050303D6}      | You get back on your feet.
+(663333):26g1:[&]{050303D6}      | You fall prone.
+(663333):26g1:[&]{050303D6}      | You get back on your feet.
+(663333):26g1:[&]{050303D6}      | You fall prone.
+(663333):26g1:[&]{050303D6}      | You get back on your feet.
+(663333):26g1:[&]{050303D6}      | You fall prone.
+(663333):26g1:[&]{050303D6}      | You get back on your feet.
+(A80000):26g1:[!]{050303D6}      | You don't have anything to drink.
+(A80000):26g1:[!]{050303D6}      | You have no weapon wielded in that hand!
+(A80000):26g1:[!]{050303D6}      | Don't strike with a bow, but use [t]hrow command and select an arrow to shoot.
+(143270):26g1:[#]{050303D6}      | UrW needs to perform map maintenance now. That will take a few moments.
+(143270):26g1:[#]{050303D6}      | Ok, map maintenance done.
+(143270):26g1:[#]{050303D6}      | Zooming out ... 
+(143270):26g1:[#]{050303D6}      | Zooming in ... 
+(000000):26g1:[T]{050303D6}      | There is coniferous forest here and you take a closer look at this area.
+(3C5A98):26g1:[:]{050403D7}      | The water here is shallow enough to wade.
+(147870):26g1:[?]{050403D7}      | Step into water?
+(3C5A98):26g1:[:]{050403D7}      | You feel a bit cool.
+(3C5A98):26g1:[:]{050403D7}      | You get out of the water.
+(143270):26g1:[#]{050303D7}      | You see a rock here.
+(143270):26g1:[#]{050303D6}      | HELP AND GAME OPTIONS: Keyboard commands
+(663333):26g1:[&]{050303D6}      | You have rested away the fatigue.
+(000000):26g1:[Y]{050303D6}      | You hear kuikka calling in the south-west.
+(663333):26g1:[&]{050303D6}      | You have rested away the fatigue.
+(663333):26g1:[&]{050303D6}      | You fall prone.
+(663333):26g1:[&]{050303D6}      | You have rested away the fatigue.
+(663333):26g1:[&]{050303D6}      | You are a bit hungry.
+(663333):26g1:[&]{050303D6}      | You have rested away the fatigue.
+(3C5A98):26g1:[:]{050303D6}      | You feel comfortably warm.
+(3C5A98):26g1:[:]{050303D6}      | You are feeling rather warm.
+(3C5A98):26g1:[:]{050303D6}      | You feel warm.
+(3C5A98):26g1:[:]{050303D6}      | You are feeling hot.
+(3C5A98):26g1:[:]{050303D6}      | You are sweaty.
+(A80000):26g1:[!]{050303D6}      | Task cancelled!
+(663333):26g1:[&]{050303D6}      | You are getting hungry.
+(663333):26g1:[&]{050303D6}      | You have rested away the fatigue.
+(143270):26g1:[#]{050303D6}      | HELP AND GAME OPTIONS: Keyboard commands
+(3C5A98):26g1:[:]{050303D6}      | You lay down and fall asleep.
+(143270):26g1:[#]{050303D6}      | Zzzz... [HOLD ON]
+(3C5A98):26gc:[:]{050303D6}      | You wake up.
+(663333):26gc:[&]{050303D6}      | You get back on your feet.
+(CC3333):26gd:[&]{050303D6}      | You are hungry as a bear!
+(663333):26gd:[&]{050303D6}      | You are very thirsty.
+(143270):26gd:[#]{050303D6}      | You see 4 slender tree trunks here.
+(143270):26gd:[#]{050303D6}      | You see a burnt-out fire here.
+(A80000):26gd:[!]{050303D6}      | There is nothing here to pick up.
+(A80000):26gd:[!]{050303D6}      | There's a spruce blocking your way!
+(143270):26gd:[#]{050303D7}      | You see a rock here.
+(147870):26gd:[?]{050303D7}      | Drink from the natural source?
+(3C5A98):26gd:[:]{050303D7}      | You gulp that water.
+(008000):26gd:[=]{050303D7}      | Your thirst is extinguished.
+(000000):26gd:[I]{050303D7}      | It's plain good rye bread and happily consumed too.
+(008000):26gd:[=]{050303D7}      | Burp! Your stomach is full.
+(3C5A98):26gd:[:]{050303D7}      | You finish eating some of that rye bread.
+(143270):26gd:[#]{050303D7}      | HELP AND GAME OPTIONS: Save the game
+(143270):26gd:[#]{050303D7}      | Saving your character...
+(008000):26gd:[=]{050303D7}      | Your character has been saved.
